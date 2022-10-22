@@ -1,0 +1,11 @@
+{
+    "steps": 28,
+    "sampler": "Euler a",
+    "cfg_scale": 5,
+    "width": 768,
+    "height": 512,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "(watercolor), ((extremely detailed CG unity 8k wallpaper)), (game cg), ((masterpiece)), ((best quality)), ((ultra-detailed)), (1 girl), (solo), (best illustration), (extremely detailed illustration), ((disheveled hair)), ((beautiful detailed lighting)), (from above), ((an extremely delicate and beautiful)), cinematic lighting, dynamic angle, detailed wet clothes, blank stare, overexplosure, floating, (beautiful detailed eyes), side blunt bangs, small breasts, black long straight, red eyes, aqua eyes, gradient eyes, black hair, very long hair, blunt bangs, ((blood)), white dress, frills, bowties, ((expressionless)), extremely beautiful detailed water, ((lying on the lake)), ((hairs curling in the water)), (bloodred water:1.5), (red background:1.3), swirl",
+    "negative_prompt": "long body, long face, lowres, bad anatomy, bad hands, missing fingers, pubic hair,extra digit, fewer digits, cropped, worst quality, low quality, extra legs, extra arms, fused arms, fused legs, extra feet, fused feet, abnormal legs, abnormal shoulders, poorly drawn shoulders, blurry, misplaced arms, misplaced legs, misplaced hands, abnormal hands, watermark, username, signature, jpeg artifacts, multiple heads, abnormal face, twisted head"
+}

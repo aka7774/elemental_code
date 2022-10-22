@@ -1,0 +1,3 @@
+8k Wallpaper,grand,(((masterpiece))), (((best quality))), ((ultra-detailed)), (illustration), ((an extremely delicate and beautiful)),dynamic angle,rainbow hair,detailed cute anime face,((loli)),(((masterpiece))),an extremely delicate and beautiful girl,flower,cry,water,corrugated,flowers tire,broken glass,(broken screen),atlantis,transparent glass
+Negative prompt: lowres, bad anatomy, bad hands, text,error, missing fingers,extra digt ,fewer digits,cropped, wort quality ,low quality,normal quality, jpeg artifacts,signature,watermark, username, blurry, bad feet,nsfw,Deformed body,spectacles,Deformed face,blue face
+Steps: 50, Sampler: Euler, CFG scale: 12, Seed: 1306976401, Size: 1024x512, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

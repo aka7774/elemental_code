@@ -1,0 +1,3 @@
+(((masterpiece))),(((best quality))),((ultra-detailed)),((illustration)),((an extremely delicate and beautiful)),dynamic angle,floating, (beautiful detailed eyes), (detailed light), (((ink))),depth of field,((watercolor)) 1girl, small breasts, red hair, blue eyes, ((veil)), bare shoulders, navel, (starry sky),(desert),(floating sand flow), (((colorful bubble)))
+Negative prompt: lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet
+Steps: 40, Sampler: Euler a, CFG scale: 5.5, Seed: 1076325668, Size: 768x512, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

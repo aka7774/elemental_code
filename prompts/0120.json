@@ -1,0 +1,11 @@
+{
+    "steps": 50,
+    "sampler": "Euler",
+    "cfg_scale": 10,
+    "width": 768,
+    "height": 512,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "((masterpiece)), ((best quality)), ((illustration)), extremely detailed,style girl, long shot, small breast,light grey very_long_hair, scifi hair ornaments, beautiful detailed deep eyes, beautiful detailed sky, beautifuldetailed water, cinematic lighting, dramatic angle, (very long sleeves), frills, formal, close to viewer, (an extremely delicate and beautiful),best quality,highres,official art,extremely detailed CG unity 8k wallpaper, ((starry sky)), star river,array stars, Holy, noble, ((oil painting)) , ((wallpaper 8k CG)), (realistic), Concept Art, vary blue and red and orange and pink hard light, intricate light, dynamic hair, haircut, dynamic fuzziness, beautiful and aesthetic, intricate light, manga and anime",
+    "negative_prompt": "nsfw, owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, Humpbacked"
+}

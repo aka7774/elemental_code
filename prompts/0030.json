@@ -1,0 +1,11 @@
+{
+    "steps": 30,
+    "sampler": "Euler a",
+    "cfg_scale": 5,
+    "width": 960,
+    "height": 576,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "((((ink)))),((watercolor)),((best quality)),(spirit),((illustration)),(((1 girl))),(beautiful detailed eyes),world masterpiece theater,depth of field,(Burning forest),spark,anime face,Black gauze skirt,(red_hair),blue_eyes,focus_on_face,medium_breasts,(((((messy_long_hair))))),Bare shoulder,very_close_to_viewers,veil,light_leaks,Burning sky,navel,((bustier)),flame,Red Gem Necklace,Rainbow in the sky,Flames burning around,A burning church,(((Fire butterflys ))),(Flying sparks)",
+    "negative_prompt": "nsfw, owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, Humpbacked,Glasses"
+}

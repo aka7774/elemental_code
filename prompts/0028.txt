@@ -1,0 +1,3 @@
+(((masterpiece))), (((best quality))), ((ultra-detailed)), (illustration), ((an extremely delicate and beautiful)), beautiful detailed eyes,(detailed light),(beautiful deatailed shadow), 1girl, (loli), (small_breasts), floating_hair, glowing eyes, black hair,red eyes, sad, lolita, bare shoulders, white_dress, ((rose)),(vines), (blood), cage, bandage, red rope, ((sketch)),(painting)
+Negative prompt: lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet
+Steps: 40, Sampler: Euler a, CFG scale: 5.5, Seed: 364725090, Size: 576x768, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

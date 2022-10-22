@@ -1,0 +1,11 @@
+{
+    "steps": 30,
+    "sampler": "Euler a",
+    "cfg_scale": 7,
+    "width": 960,
+    "height": 576,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "((((ink)))C((watercolor))Cworld masterpiece theater, ((best quality))Cdepth of field,((illustration))C(1 girl)Canime faceCmedium_breast,floatingCbeautiful detailed skyClooking_at_viewersCan detailed organdie dressCvery_close_to_viewersCbare_shoulderCgolden_braceletCfocus_on_faceCmessy_long_hairCveilCupper_bodyC,lens_flare,light_leaks,bare shouldersCdetailed_beautiful_Snow Forest_with_TreesC spiritCgrey_hairCWhite clothesC((Snowflakes)),floating sand flow,navel,(beautiful detailed eyes), (8k_wallpaper)",
+    "negative_prompt": "nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, HumpbackedCGlasses"
+}

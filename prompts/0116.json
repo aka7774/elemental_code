@@ -1,0 +1,11 @@
+{
+    "steps": 50,
+    "sampler": "Euler",
+    "cfg_scale": 12,
+    "width": 1024,
+    "height": 512,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "8k Wallpaper,grand,(((masterpiece))), (((best quality))), ((ultra-detailed)), (illustration), ((an extremely delicate and beautiful)),dynamic angle,rainbow hair,detailed cute anime face,((loli)),(((masterpiece))),an extremely delicate and beautiful girl,flower,cry,water,corrugated,flowers tire,broken glass,(broken screen),atlantis,transparent glass",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text,error, missing fingers,extra digt ,fewer digits,cropped, wort quality ,low quality,normal quality, jpeg artifacts,signature,watermark, username, blurry, bad feet,nsfw,Deformed body,spectacles,Deformed face,blue face"
+}

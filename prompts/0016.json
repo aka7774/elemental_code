@@ -1,0 +1,11 @@
+{
+    "steps": 28,
+    "sampler": "Euler a",
+    "cfg_scale": 7,
+    "width": 960,
+    "height": 576,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "hiten_1, (((masterpiece))),best quality, illustration,(beautiful detailed girl),beautiful detailed glow,detailed ice,beautiful detailed water,(beautiful detailed eyes),expressionless,beautiful detailed white gloves, (floating palaces:1.2),azure hair,disheveled hair,long bangs, hairs between eyes, (skyblue dress),black ribbon,white bowties,midriff,(half closed eyes:1.157625),,big forhead,blank stare,flower,large top sleeves,(((ice crystal texture wings))),{(Iridescence and rainbow hair:1.4071),(detailed cute anime face:1.340096),(loli:1.1025),(watercolor_(medium):1.215506),(((masterpiece)))",
+    "negative_prompt": "(ugly:1.157625),(duplicate:1.157625),(morbid:1.1025),(mutilated:1.1025),(tranny:1.157625),mutated hands,(poorly drawn hands:1.157625),blurry,(bad anatomy:1.1025),(bad proportions:1.157625),extra limbs,cloned face,(disfigured:1.157625),(more than 2 nipples:1.157625),(missing arms:1.215506),(extra legs:1.157625),mutated hands,(fused fingers:1.276282),(too many fingers:1.276282),(unclear eyes:1.157625),lowers,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,bad"
+}

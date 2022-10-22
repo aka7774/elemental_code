@@ -1,0 +1,3 @@
+(((masterpiece))),best quality, illustration,(beautiful detailed girl), a girl ,solo,bare shoulders,flat_chst,diamond and glaring eyes,beautiful detailed cold face,very long blue and sliver hair,floaing black feathers,wavy hair,black and white sleeves,gold and sliver fringes,a (blackhole) behind the girl,a silver triple crown inlaid with obsidian,(sit) on the black ((throne)), (depth) of (field)
+Negative prompt: 1,bad feet_hand_finger_leg_eye,missing fingers,worst low normal quality,bad face,blurry:1.1,Asymmetrical eyes,Simple background
+Steps: 23, Sampler: DDIM, CFG scale: 4.5, Seed: 3791736548, Size: 960x640, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

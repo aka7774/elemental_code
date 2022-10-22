@@ -1,0 +1,3 @@
+extremely detailed CG unity 8k wallpaper, (masterpiece), best quality, illustration, (1 girl), wet skin, expressionless, yellow eyes, (anger), horns, (silver armor), metal, complex pattern, corner, cape, indifference
+Negative prompt: lowres, bad anatomy, bad hands, text,error, missing fngers,extra digt ,fewer digits,cropped, wort quality ,low quality,normal quality, jpeg artifacts,signature,watermark, username, blurry, bad feet,blush,helmet
+Steps: 50, Sampler: DDIM, CFG scale: 7, Seed: 2710216396, Size: 1024x896, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

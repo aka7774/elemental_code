@@ -1,0 +1,11 @@
+{
+    "steps": 23,
+    "sampler": "Euler",
+    "cfg_scale": 4,
+    "width": 832,
+    "height": 512,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "((ink)),((watercolor)),{(best quality:1.05),(expressionless),((illustration)),(beautiful detailed girl),(beautiful detailed eyes),world masterpiece theater,depth of field,(blue spark),anime face,black gauze skirt,(red and blue hair),blue eyes,focus_on_face,medium_breasts,(((((messy_long_hair))))),Bare shoulder,very_close_to_viewers,burning sky,navel,((bustier)),flame,Rainbow in the sky,((Flames burning ice)),(((Fire butterflys ))),(((ice crystal texture wings))),(Flying sparks),(detailed ice),(a lot of luminous ice crystals:1.1025),((burning feathers)),(feathers_made_of_ice:1.05),(frozen feathers),(ice and fire together:1.157625)",
+    "negative_prompt": "lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet"
+}

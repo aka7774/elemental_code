@@ -1,0 +1,11 @@
+{
+    "steps": 40,
+    "sampler": "Euler a",
+    "cfg_scale": 5,
+    "width": 576,
+    "height": 768,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "(((masterpiece))), (((best quality))), ((ultra-detailed)), (illustration), ((an extremely delicate and beautiful)), beautiful detailed eyes,(detailed light),(beautiful deatailed shadow), 1girl, (loli), (small_breasts), floating_hair, glowing eyes, black hair,red eyes, sad, lolita, bare shoulders, white_dress, ((rose)),(vines), (blood), cage, bandage, red rope, ((sketch)),(painting)",
+    "negative_prompt": "lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet"
+}

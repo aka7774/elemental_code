@@ -1,0 +1,11 @@
+{
+    "steps": 28,
+    "sampler": "Euler a",
+    "cfg_scale": 12,
+    "width": 1024,
+    "height": 1152,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "(masterpiece:1.1025), flat chest, best quality,(highres:1.05),solo,flat_chest,a girl inside the church with white hair and blue pupil surrounded by (many:1.05) glowing (feathers:1.05) in cold face,detailed face,night with bright colorful lights whith richly layered clouds and clouded moon in the detailed sky,(a lot of glowing particles:1.05),high ponytail,mecha clothes,robot girl,cool movement,sliver bodysuit,(filigree:1.05),delicate and (intricate) hair,((sliver)) and (broken) body,blue streaked hair,full body,Depth of field, sitting on a (blue star:1.05)",
+    "negative_prompt": "lowres, bad anatomy, bad legs,bad hands, text,error, missing fngers,extra digt ,fewer digits,cropped, wort quality ,low quality,normal quality, jpeg,artifacts,signature,watermark, username, blurry, bad feet,artist name,bad anatomy,bad hands,bad body,bad proportions,worst quality,low quality,optical_illusion"
+}

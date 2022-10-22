@@ -1,0 +1,11 @@
+{
+    "steps": 30,
+    "sampler": "Euler a",
+    "cfg_scale": 6,
+    "width": 512,
+    "height": 768,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "(retro artstyle:1.215506), {{masterpiece)),best quality,illustration,1 girl,mature female,small breast,beautiful detailed eyes,long sleeves, hoodie,frills, no shadow, simple background, bright skin, 1980s \\(style\\)",
+    "negative_prompt": "lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,bad feet,ugly,duplicate,trannsexual,hermaphrodite,out of frame,extra fingers,mutated hands,poorly drawn hands,poorly drawn face,mutation,deformed,blurry,bad anatomy,bad proportions,extra limbs,cloned face,disfigured,more than 2 nipples,out of frame,ugly,extra limbs,bad anatomy,gross,worst quality,low quality,normal quality,signature,watermark,username,blurry,proportions,malformed limbs,missing arms,missing legs,extra arms,extra legs,mutated hands,fused fingers,too many fingers,long neck"
+}

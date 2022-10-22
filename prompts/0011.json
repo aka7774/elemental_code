@@ -1,0 +1,11 @@
+{
+    "steps": 20,
+    "sampler": "Euler a",
+    "cfg_scale": 7,
+    "width": 1280,
+    "height": 768,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "(masterpiece:1.05),(best quality:1.05),(1girl:1.05),Amazing,beautiful detailed eyes,finely detail,Depth of field,extremely detailed CG,original, extremely detailed wallpaper,loli,white_hair,magic_circle,cat_ears,long_hair,white_hair\/yellow_eyes,wand,pentagram,clock, (masterpiece:1.05),(best quality:1.05),(1girl:1.05),Amazing,beautiful detailed eyes,finely detail,Depth of field,extremely detailed CG,original, extremely detailed wallpaper,loli, white_hair",
+    "negative_prompt": "nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry"
+}

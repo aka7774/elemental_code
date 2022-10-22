@@ -1,0 +1,11 @@
+{
+    "steps": 45,
+    "sampler": "DDIM",
+    "cfg_scale": 10,
+    "width": 512,
+    "height": 768,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "dream,(((extremely detailed CG unity 8k wallpaper))),(painting:1.05),(((ink))),amazing,Depth of field,(best quality:1.1025),(masterpiece:1.1025),highres,dynamic angle,(illustration),cinematic lighting,(1girl:1.05),((wavy silver hair)),((loli)),((extremely_detailed_eyes_and_face)),(detailed flooding bare feet:1.5),translucent pink skirt,gemological hair,french braid,pointy ears,looking at viewer,(translucent fluttering skirt:1.1025),yellow hairpin,(white dress with pink lace with yellow decoration:1.1025),sleeves past wrists,((sleeves past fingers)),walking_motion,strapless dress,ocean waves,wind,(((glistening light of waves))),(detailed sunset glow:1.05),(floating flow),((coral)),(Luminous),coast,(floating colorful bubbles:1.05),beautiful detailed sky,(fluorescence:1.05),detailed shadow,(conch),beautiful detailed water,drenched,starfish,meteor,rainbow,(seabirds),(glinting stars:1.05), (glowworm),(splash),,detailed cloud,shell,(fireworks:1.05)",
+    "negative_prompt": "malformed hands,worst quality,low quality,(ugly:1.215506),(duplicate:1.157625),(trans:1.157625),(trannsexual:1.1025),(out of frame:1.05),extra fingers,mutated hands,(more than 2 nipples:1.157625),out of frame,extra limbs,(bad anatomy:1.05),grossproportions,(malformed limbs:1.05),(missing arms:1.1025),(missinglegs:1.1025),(extra arms:1.157625),(extra legs:1.157625),mutated hands,(fusedfingers:1.05),(long neck:1.157625),fingers,extra digit,cropped,bad feet,(poorly drawnhands:1.1025),(poorly drawn face:1.1025),(mutation:1.157625),(deformed:1.1025),blurry,(bad anatomy:1.1025),(bad proportions:1.157625),(extra_limbs:1.1025),(disfigured:1.157625).bad anatomy disfigured,malformed mutated,missing limb,normal quality,too many fingers,long neck,bad finglegs,cropped,bad feet,bad anatomy disfigured,malformed mutated,(morbid:1.1025),(mutilated:1.1025),(tranny:1.157625),missing limb,malformed hands"
+}

@@ -1,0 +1,11 @@
+{
+    "steps": 28,
+    "sampler": "Euler a",
+    "cfg_scale": 5,
+    "width": 832,
+    "height": 512,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "((extremely detailed CG)),((8k_wallpaper)),(((masterpiece))),((best quality)),watercolor_(medium),((beautiful detailed starry sky)),cinmatic lighting,loli,princess,very long rainbow hair,side view,looking at viewer,full body,frills,(far from viewer),((extremely detailed face)),((an extremely delicate and beautiful girl)),((extremely detailed cute anime face)),((extremely detailed eyes)),(((extremely detailed body))),(ultra detailed),illustration,((bare stomach)),((bare shoulder)),small breast,((sideboob)),((((floating and rainbow hair)))),(((Iridescence and rainbow hair))),(((extremely detailed sailor dress))),((((Iridescence and rainbow dress)))),(Iridescence and rainbow eyes),beautiful detailed hair,beautiful detailed dress,dramatic angle,expressionless,(big top sleeves),frills,blush,(ahoge)",
+    "negative_prompt": "lowres,bad anatomy,bad hands,text,error,ugly,duplicate,morbid,boken limb,incorrect limb,fusion finger,lose finger,multiple finger,multiple digit,fusion hand,lose leg,fused leg,multiple leg,bad feet,fewer digits,cropped,worst quality,low quality,normal quality,simple background, jpeg"
+}

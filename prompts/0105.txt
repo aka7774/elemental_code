@@ -1,0 +1,3 @@
+(best quality:1.1025), (masterpiece:1.1025), (ultra-detailed:1.1025), (illustration:1.05), (detailed light:1.05), (an extremely delicate and beautiful:1.05), a girl, (beautiful detailed eyes:1.05), stars in the eyes, messy floating hair, colored inner hair, Starry sky adorns hair, depth of field
+Negative prompt: lowres, bad anatomy, text, error, extra digit, fewer digits, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, {blurry:1.1}, missing arms
+Steps: 25, Sampler: DDIM, CFG scale: 5, Seed: 514633809, Size: 1024x640, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

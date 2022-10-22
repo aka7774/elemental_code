@@ -1,0 +1,11 @@
+{
+    "steps": 50,
+    "sampler": "DDIM",
+    "cfg_scale": 11,
+    "width": 1152,
+    "height": 704,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "(watercolor_(medium)), ((ukiyoe style)), ((((masterpiece)))), (((best quality))), ((ultra-detailed)), (illustration), ((((1 girl))), (solo), ((an extremely delicate and beautiful)), ((little girl)) , cute, ((hime_cut)), side blunt bangs, hairs between eyes, ribbons, Bracelet , bare shoulders, ((small breast)) , blank stare, ((japanese_clothes)), sakura, ((slit pupils)), ((miko)), (off_shoulder), ace",
+    "negative_prompt": "nsfw, owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, Humpbacked,shadow,long body, Abnormal fingers"
+}

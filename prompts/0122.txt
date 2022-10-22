@@ -1,0 +1,3 @@
+((ink)),(water color),bloom effect,((best quality)),((world masterpiece)),((illustration)),(white_hair),(gold_eye),(((1girl))),(beautiful detailed girl),golden_eye,((extremely_detailed_eyes_and_face)),long_hair,detailed,detailed_beautiful_grassland_with_petal,flower,butterfly,necklace,smile,petal,(silver_bracelet),(((surrounded_by_heavy_floating_petal_flow)))
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name,bad feet,nude,skeleton_girl
+Steps: 50, Sampler: Euler a, CFG scale: 4, Seed: 1095994478, Size: 768x512, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

@@ -1,0 +1,3 @@
+(((masterpiece))), (((best quality))), ((ultra-detailed)), (illustration), ((an extremely delicate and beautiful)),cinematic angle,floating, (beautiful detailed eyes), (detailed light),cinematic lighting, beautifully detailed sky,(1girl), white hair, blue eyes, (high ponytail), cloak, glowing eyes,((moon)),(moonlight), starry sky, (lighting particle), fog, snow,(painting),(sketch),(bloom)
+Negative prompt: lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet
+Steps: 40, Sampler: Euler a, CFG scale: 5.5, Seed: 1325173377, Size: 512x768, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

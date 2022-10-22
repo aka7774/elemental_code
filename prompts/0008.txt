@@ -1,0 +1,3 @@
+hiten_1, ((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)), ((disheveled hair)), beautiful detailed eyes, (1girl:1.2),(solo), dynamic angle, dark magician girl,(black kneehighs:1.1),(starry tornado:1.4), starry Nebula, ((frills)), beautiful detailed sky, beautiful detailed eyes,evil smile, expressionless,hairs between eyes, white hair,pleated skirt,((disreveled hair))
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms
+Steps: 50, Sampler: Euler a, CFG scale: 6, Seed: 2313076884, Size: 1024x768, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

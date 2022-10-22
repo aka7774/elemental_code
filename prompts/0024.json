@@ -1,0 +1,11 @@
+{
+    "steps": 40,
+    "sampler": "Euler a",
+    "cfg_scale": 4,
+    "width": 512,
+    "height": 1024,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "(((crystals texture Hair))),(extremely detailed CG:1.276282),(8k_wallpaper:1.1025),(Crystalline purple gemstone gloves:1.215506),((beautiful detailed Glass hair)),((Glass shaped texture hand)),((Crystallize texture body)),Gem body,Hands as clear as jewels,Crystallization of clothes,((crystals texture skin)),sparkle, lens flare, light leaks, Broken glassC(Detailed Glass shaped clothes:1.215506)C ((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)), ((disheveled hair)), ((frills)), (1 girl), (solo), dynamic angle, big top sleeves, floating, beautiful detailed gemstone sky, gemstone sea, beautiful detailed eyes, overexposure, side blunt bangs, hairs between eyes, ribbons, bowties, buttons, bare shoulders, (((small breast))), pleated skirt, crystals texture flowersC ((Detailed crystallized clothing)),(gemstone of body)Csolo focus",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name,bad feet,(ugly:1.157625),(duplicate:1.157625),(morbid:1.1025),(mutilated:1.1025),(tranny:1.157625),mutated hands,(poorly drawn hands:1.157625),blurry,(bad anatomy:1.1025),(bad proportions:1.157625),extra limbs,cloned face,(disfigured:1.157625),(more than 2 nipples:1.157625),(missing arms:1.215506),(extra legs:1.157625),mutated hands,(fused fingers:1.276282),(too many fingers:1.276282),(unclear eyes:1.157625),lowers,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,bad"
+}

@@ -1,0 +1,11 @@
+{
+    "steps": 27,
+    "sampler": "Euler a",
+    "cfg_scale": 7,
+    "width": 1600,
+    "height": 640,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "(((masterpiece))),(((best quality))),((ultra-detailed)),((underwater)),(illustration),(beautiful detailed water),((coral)),open tuck,((extremely delicate and beautiful girls)),dynamic angle,floating,(beautiful detailed eyes),(detailed light),(loli),floating hair,glowing eyes,pointy ears,(splash),underwater),((fishes)),white hair,green right eye,iceblue left eye,leaves dress,feather,nature,(sunlight),(underwater forest),(painting),(bloom),(detailed glow),drenched,seaweed,fish,(((Tyndall effect))),face to face",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms,large breasts"
+}

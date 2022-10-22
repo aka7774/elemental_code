@@ -1,0 +1,11 @@
+{
+    "steps": 28,
+    "sampler": "Euler a",
+    "cfg_scale": 6,
+    "width": 1024,
+    "height": 768,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "cinematic lighting, ((best quality)),((single_human_girl)),((((upper_body)))),((extremely_detailed_eyes_and_face)),((church)),((annoyed)),((ink)),((illustration)),depth of field,((frown)),((expression)),((red_eyes)),((((white_hair)))),((extremely detailed)),((watercolor)),((anime face)),(skull_on_dress),(((yokozuwari))),((detailed_skeleton_church)),(((beautiful_detailed_black_gothic_Empire_Waist_Dress))),(((dramatic_angle))),medium_breast,(8k_wallpaper),((bright_eyes)), (looking_at_viewers),((close_to_viewers)),((masterpiece)),(((((messy_long_hair))))),((((1girl)))),lens_flare,light_leaks",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name,bad feet,nude,skeleton_girl"
+}

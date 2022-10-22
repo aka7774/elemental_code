@@ -1,0 +1,11 @@
+{
+    "steps": 28,
+    "sampler": "Euler a",
+    "cfg_scale": 7,
+    "width": 832,
+    "height": 1024,
+    "sd_model_hash": "925997e9",
+    "clip_skip": 2,
+    "prompt": "(((masterpiece))),best quality, illustration,(beautiful detailed girl),beautiful detailed glow,((flames of war)),(((nuclear explosion behide))),rain,detailed lighting,detailed water,(beautiful detailed eyes),expressionless,palace,azure hair,disheveled hair,long bangs,hairs between eyes,(whitegrey dress),black ribbon,white bowties,midriff,big forhead,blank stare,flower,long sleeves",
+    "negative_prompt": "lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,missing fingers,bad hands,missing arms,large breasts"
+}
