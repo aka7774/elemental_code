@@ -158,6 +158,9 @@ Seed値は手元の動作確認時にランダムで付与したもの。
 - 元素法典
 https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
 
+- 元素法典第1.5巻
+https://docs.qq.com/doc/DWGh4QnZBVlJYRkly
+
 - nai2sd-Converter
 https://github.com/AUTOMATIC-gassy/nai2sd-Converter
 
