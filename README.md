@@ -8,7 +8,6 @@
 - prompts/*.txt 元素法典を出力した時に吐かれるparamters文字列
 - prompts/*.png PNG Info用の画像
 - prompts/*.json Random Choice Script用のjson
-- 768x512/*.json jsonを最大768x512まで縮小したもの(VRAM 4GB対応)
 
 
 ## あそびかた
