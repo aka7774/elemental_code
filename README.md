@@ -3,7 +3,6 @@
 
 ## ファイル
 
-- readme.txt これ。説明書。
 - names.txt 番号と名前の対応表。Notepad++などのUnicode対応エディタで開いてください。
 - prompts/*.txt 元素法典を出力した時に吐かれるparamters文字列
 - prompts/*.png PNG Info用の画像
