@@ -1,0 +1,31 @@
+{
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((masterpiece)),best quality, ((illustration)),original,extremely detailed wallpaper,(((beijing opera))), (sketch),((wash painting)),((ink splashing)),((((dyeing)))),((Chinese painting)),((a mythical ferocious animal)),{{The bull}},{{ long horns}}\uff0c{{With wings on its back}},(Red and black wings,)(solo),mountain,Big and strong,Diabolical,Tyrannical",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, More than four hooves, less than four hooves\uff0cToo many hooves\uff0cToo many horns\uff0cLess than two wings, more than two wings\uff0cMore than two cows"
+}

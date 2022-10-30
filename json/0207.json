@@ -1,0 +1,31 @@
+{
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        12
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((best quality)), ((masterpiece)), highres, original, extremely detailed wallpaper,an extremely delicate and beautiful,illustration,cinematic lighting, volume lighting, bloom effect, light particles,((1 girl)),beautiful detailed eyes,long sleeves, hoodie,frills, no shadow, simple background, (((black background))), European style, bright skin, (((1980s (style)))), movie theater,  silhouette, greyscale, monochrome,((Big wavy curls)), slit pupils,(((looking back))),cinematic angle, (((close-up))),(((portrait))),lens flare,seductive smile, tarot, medium hair",
+    "negative_prompt": "nsfw, lowres, bad anatomy, bad hands, text error, missing fingers, extra digits, fewer digits, cropped, worst quality, low quality, standard quality, peg artifacts, signature, watermark, username, blurry"
+}

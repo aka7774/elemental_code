@@ -1,0 +1,31 @@
+{
+    "steps": [
+        26
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        10
+    ],
+    "width": [
+        896
+    ],
+    "height": [
+        576
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "Maidens of Avignon, colorful, flat_color, limited palette, (by Picasso:1.1025), (cubism:1.1025), (a girl:1.1025), pretty face, upper body,  flat_chest, floating black jacket, white school uniform, white beret), bowknot over white beret",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet"
+}

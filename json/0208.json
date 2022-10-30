@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        10
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        1152
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(comic), (creative frame design), flat_color,( limited palette:1.157625),story, (girl:1.05), gothic, (speech bubble:1.05), (monochrome) , (speak arrow (symbol):1.05) ,meme,  manga frame, ((dark intense shadows)), ((cinematic lighting)), ((overexposure)),cute anime faces, sketch,(storyboards:1.1025), (pretty face), section, frame, (border:1.05), (split_theme:1.05), (split screen:1.1025), (Cartoon split:1.05),river, (forest),palace, (fairyland,feather,flowers, nature),(sunlight),Hazy fog, mist,(beautiful detailed sky), (2 girls:1.05), flat_chest, diamond and glaring eyes, black eyes, beautiful detailed cold face, (short red hair:1.05), short wavy hair, beautiful detailed eyes, glowing eyes, touhou project, 1girl,braid,dress,eyelashes,frilled skirt,holding knife, holster,maid,maid headdress, medium hair,pocket watch,puffy short sleeves,silver chain, thigh strap, wrist cuffs, open mouth,blank stare, smile,angry,tears",
+    "negative_prompt": "multiple breasts, (mutated hands and fingers:1.5 ), (long body :1.3), (mutation, poorly drawn :1.2) , black-white, bad anatomy, liquid body, liquid tongue, disfigured, malformed, mutated, anatomical nonsense, text font ui, error, malformed hands, long neck, blurred, lowers, lowres, bad anatomy, bad proportions, bad shadow, uncoordinated body, unnatural body, fused breasts, bad breasts, huge breasts, poorly drawn breasts, extra breasts, liquid breasts, heavy breasts, missing breasts, huge haunch, huge thighs, huge calf, bad hands, fused hand, missing hand,watermark,Unshaped, watermarks, duplicate"
+}
