@@ -1,0 +1,31 @@
+{
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        8
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "colorful painting, ((chinese colorful ink)), (((Chinese color ink painting style))), (((masterpiece))), (((best quality))),((Ultra-detailed, very precise detailed)),(((a charming Chinese girl,1girl,solo,delicate beautiful face))), (Floating),(illustration),(Amazing),(Absurd),((sharp focus)), ((extremely detailed)), ((high saturation)), (surrounded by color ink splashes),((extremely detailed body)),((colorful))",
+    "negative_prompt": "nsfw, text font ui, error, blurred, bad shadow, JPEG artifacts, signature, 3D, 3D game, 3D game scene, 3D character, duplicate, blurry, strong girl, obesity, worst quality, low quality, normal quality, black-white, lowers, cropped, watermark, username, QR code, bar code, censored, mosaic, excrement, faeces, shit"
+}

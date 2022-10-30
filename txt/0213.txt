@@ -1,0 +1,3 @@
+((oil painting)), ((masterpiece)), ((best quality)), ((ultra-detailed)), (illustration), ((impasto)), highres, (beautiful detailed), classicism, Rembrandt lighting, brown background, detailed face, old man, sitting on the chair, (portrait), picture frame
+Negative prompt: lowres, bad anatomy, error, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, artist name, blurred, poorly drawn face, extra fingers, missing fingers, fused fingers, abnormal fingers, fused hands, ugly
+Steps: 20, Sampler: Euler a, CFG scale: 11, Seed: 1193411897, Size: 512x768, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

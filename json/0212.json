@@ -1,0 +1,28 @@
+{
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        3
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(((extremely detailed)))((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)), ((disheveled hair))\uff0c(((colourful)))\uff0csolo\uff0c1girl\uff0cbreeze\uff0ccinematic lighting,vest\uff0c((fasle impasto paintings)), gradient eyes\uff0cbeautifully detailed sky\uff0cwatercolour\uff0cAmbient light",
+    "negative_prompt": ""
+}

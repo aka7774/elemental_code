@@ -1,0 +1,28 @@
+{
+    "steps": [
+        42
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        896
+    ],
+    "height": [
+        704
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(highly detailed), ((masterpiece)),(Impasto), intricate, church painting,(((1 girl))) , painting frame, fantasy ,delicate grassland,sorceress,shepherd long white hair,red dragon eye,white dress ,(pretty face),beautiful detailed face,extremely delicate and beautiful girls,alps,evergreen coniferous forest ,clear sky ,wind ,beautiful sky ,cumulus",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text,error, missing fingers,extra digits,fewer digits,cropped, worth quality ,low quality, normal quality, jpeg artifacts,signature,watermark, username, blurry, bad feet, realistic,3d,(large breast),blush,long neck,bad arms, lowres, bad anatomy, bad hands, text,error, missing fingers,extra digits,fewer digits,cropped, worth quality ,low quality,normal quality, jpeg artifacts,signature,watermark, username, blurry, bad feet, realistic,3d,(large breast),blush,long neck,multiple people,animals,missing legs,huge person"
+}

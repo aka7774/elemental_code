@@ -1,0 +1,31 @@
+{
+    "steps": [
+        20
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((oil painting)), ((masterpiece)), ((best quality)), ((ultra-detailed)), (illustration), ((impasto)), highres, (beautiful detailed), classicism, Rembrandt lighting, brown background, detailed face, old man, sitting on the chair, (portrait), picture frame",
+    "negative_prompt": "lowres, bad anatomy, error, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, artist name, blurred, poorly drawn face, extra fingers, missing fingers, fused fingers, abnormal fingers, fused hands, ugly"
+}

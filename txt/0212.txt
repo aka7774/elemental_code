@@ -1,0 +1,2 @@
+(((extremely detailed)))((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)), ((disheveled hair))，(((colourful)))，solo，1girl，breeze，cinematic lighting,vest，((fasle impasto paintings)), gradient eyes，beautifully detailed sky，watercolour，Ambient light
+Steps: 40, Sampler: DDIM, CFG scale: 3.5, Seed: 2654851153, Size: 512x768, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

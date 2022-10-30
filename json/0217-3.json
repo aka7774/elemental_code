@@ -1,0 +1,31 @@
+{
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "DPM2 a Karras"
+    ],
+    "cfg_scale": [
+        10
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "dramatic angle,(fluttered detailed ink splashs), (illustration),(((1 girl))),(long hair),(rain:0.6),((expressionless ,Carmine hair ornament:1.4)),(There is a palace far away from the girl),chinese clothes,((focus on the girl)), color Ink wash painting,(ink splashing),(Huaqing splashing),((colorful)),[sketch], Masterpiece,best quality, beautifully painted,highly detailed,(denoising:0.7),[splash ink],yin yang",
+    "negative_prompt": "nsfw,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,bad feet,ugly,duplicate,trannsexual,hermaphrodite,out of frame,extra fingers,mutated hands,mutation,deformed,blurry,bad anatomy,bad proportions,cloned face,disfigured,more than 2 nipples,out of frame,ugly,extra limbs,bad anatomy,gross,worst quality,low quality,normal quality,signature,watermark,username,blurry,proportions,malformed limbs,missing arms,missing legs,extra arms,extra legs,long neck,no girl,very long hair,more than one person"
+}

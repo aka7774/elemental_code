@@ -1,0 +1,31 @@
+{
+    "steps": [
+        27
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        15
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "profile picture, an extremely delicate and beautiful girl, kandinsky, best quality, illustration, beautiful detailed eyes, 1girl, rose red eyes, upper body",
+    "negative_prompt": "lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet"
+}
