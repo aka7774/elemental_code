@@ -1,11 +1,28 @@
 {
-    "steps": 51,
-    "sampler": "Euler a",
-    "cfg_scale": 6,
-    "width": 1024,
-    "height": 1024,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        51
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        1024
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "(masterpiece:1.1025), best quality, Amazing, (beautiful detailed eyes:1.05), (1girl:1.05), extremely detailed CG unity 8k wallpaper, highly detailed, official_art, highres, original, blonde hair, yellow eyes, white skin, slim legs, mature female, sunrise, golden sky, magnificent architecture, beautiful detailed sky, overexposure, detailed background, delicate gold metal decorations",
     "negative_prompt": "bad feet_hand_finger_leg_eye,missing fingers,worst low normal quality,bad face,blurry:1.1,Asymmetrical eyes,Simple background, mutation, poorly drawn, huge breasts, huge haunch, huge thighs, more than 2 nipples, huge calf, bad anatomy, liquid body, disfigured, malformed, mutated, anatomical nonsense, text font ui, error, malformed hands, long neck, blurred, lowers, lowres, bad proportions, bad shadow, uncoordinated body, unnatural body, text, ui, error, cropped, watermark, username, blurry, JPEG artifacts, signature, 3D, bad hairs, poorly drawn hairs, fused hairs, big muscles, ugly, bad face, fused face, poorly drawn face, cloned face, big face, long face, bad eyes, fused eyes poorly drawn eyes, extra eyes, malformed limbs"
 }

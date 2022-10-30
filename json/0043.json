@@ -1,11 +1,28 @@
 {
-    "steps": 26,
-    "sampler": "Euler a",
-    "cfg_scale": 6,
-    "width": 1024,
-    "height": 512,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        26
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "extremely detailed CG unity 8k wallpaper,best quality,noon,beautiful detailed water,long black hair,beautiful detailed girl,serafuku,view straight on,eyeball,hair flower,close up",
     "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,artist name,more than 2 thighs,nsfw"
 }

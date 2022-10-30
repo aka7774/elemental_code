@@ -1,11 +1,28 @@
 {
-    "steps": 27,
-    "sampler": "Euler a",
-    "cfg_scale": 7,
-    "width": 768,
-    "height": 896,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        27
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        896
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "(((masterpiece))),best quality, illustration,(beautiful detailed girl),beautiful detailed glow,detailed ice,beautiful detailed water,(beautiful detailed eyes),expressionless,(floating palaces),azure hair,disheveled hair,long bangs, hairs between eyes,(skyblue dress),black ribbon,white bowties,midriff,(half closed eyes:1.157625),big forhead,blank stare,flower,large top sleeves",
     "negative_prompt": "lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,missing fingers,bad hands,missing arms,large breasts"
 }

@@ -1,11 +1,28 @@
 {
-    "steps": 48,
-    "sampler": "LMS Karras",
-    "cfg_scale": 15,
-    "width": 1152,
-    "height": 640,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        48
+    ],
+    "sampler": [
+        "LMS Karras"
+    ],
+    "cfg_scale": [
+        15
+    ],
+    "width": [
+        1152
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "(masterpiece), black hair,red eyes,1girl,solo,((delicate face)),((an extremely delicate and beautiful)),strange,Space opera,Space port,robot arm,elbow_gloves,night,glisten,stare,cyberpunk,((((citylight)))),((masterpiece)), (((best quality))), (beautiful detailed eyes),((ultra-detailed)), ((illustration)), ((disheveled hair)),science fiction,bodysuit,Mechanical armor headdress,(bare shoulders)",
     "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, Humpbacked,long neck"
 }

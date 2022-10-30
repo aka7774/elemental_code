@@ -1,11 +1,28 @@
 {
-    "steps": 28,
-    "sampler": "Euler a",
-    "cfg_scale": 6,
-    "width": 960,
-    "height": 576,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        960
+    ],
+    "height": [
+        576
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "dramatic_shadow,ray_tracing, ((best quality)),(((beautiful_detailed_dark_midnight_sky))),((((yellow_full_moon)))),(holding_wine_gourd),(((((surrounded_by_floating_sakura))))),dramatic_angle,(leaning_on_huge_stone),(((bare_shoulder))),((((very_close_to_viewer)))),(((tispy))),(((sleepy))),((far_from_viewer)),(((extremely_beautiful_detailed_anime_face_and_eyes))),((((((1girl)))))),((((open_hakama)))),((samurai)),(ink),((illustration)),depth of field,(((((beautiful_detailed_pampas_grass_field))))),watercolor,((upper_body)),medium_breast,(bright_eyes),((masterpiece)),((messy_white_long_hair))",
     "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name,bad feet,nsfw,more_than_1_moon"
 }

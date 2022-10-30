@@ -1,11 +1,28 @@
 {
-    "steps": 40,
-    "sampler": "DDIM",
-    "cfg_scale": 4,
-    "width": 1024,
-    "height": 512,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "(master piece:1.1025),best quality,illustration,1girl,small breast,beatiful detailed eyes,beatiful detailed cyberpunk city,flat_chest,beatiful detailed hair,wavy hair,beatiful detailed steet,mecha clothes,robot girl,cool movement,sliver bodysuit,(filigree:1.05),dargon wings,colorful background,a dragon stands behind the girl,rainy days,(lightning effect:1.05),beatiful detailed sliver dragon arnour,(cold face)",
     "negative_prompt": "(ugly:1.157625),(duplicate:1.157625),(morbid:1.1025),(mutilated:1.1025),(tranny:1.157625),mutated hands,(poorly drawn hands:1.157625),blurry,(bad anatomy:1.1025),(bad proportions:1.157625),extra limbs,cloned face,(disfigured:1.157625),(more than 2 nipples:1.157625),(missing arms:1.215506),(extra legs:1.157625),mutated hands,(fused fingers:1.276282),(too many fingers:1.276282),(unclear eyes:1.157625),lowers,bad anatomy,bad hands,text,error,missing fingers"
 }

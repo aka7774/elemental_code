@@ -1,11 +1,28 @@
 {
-    "steps": 20,
-    "sampler": "Euler a",
-    "cfg_scale": 4,
-    "width": 1280,
-    "height": 768,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        20
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        1280
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "(masterpiece:1.157625), (best quality:1.1025), (super fine illustration:1.1025), (beautiful and delicate water:1.1025), {(beautiful and detailed eyes:1.05), (very detailed light:1.05), (perfect and delicate limbs:1.05), (nature:1.05), (painting:1.05), (water bloom:1.05), (delicate glow:1.05), (very fine 8KCG wallpaper:1.1025), lavender eyes, peach pink pupils, whole body, white hair, luminous eyes, an extremely delicate and beautiful girl, (1 girl), medium chest circumference, dynamic angle, (Violet dress with gold decoration), (long hair floating everywhere), (beautiful hair decoration), (delicate wet dress), (nsfw), (breeze), long hair blown up, ((messy hair style)), (long bangs between eyes), wrinkled skirt, Flowers meadow, near the water edge, (((sunset)), (less stars form a circle), randomly distributed clouds, (rivers), (willows with branches falling into the water)",
     "negative_prompt": "(ugly:1.157625),(duplicate:1.157625),(morbid:1.1025),(mutilated:1.1025),(tranny:1.157625),mutated hands,(poorly drawn hands:1.157625),blurry,(bad anatomy:1.1025),(bad proportions:1.157625),extra limbs,cloned face,(disfigured:1.157625),(more than 2 nipples:1.157625),(missing arms:1.215506),(extra legs:1.157625),mutated hands,(fused fingers:1.276282),(too many fingers:1.276282),(unclear eyes:1.157625),lowers,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,bad feet,(monotone:1.276282)"
 }

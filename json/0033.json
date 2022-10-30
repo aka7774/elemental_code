@@ -1,11 +1,28 @@
 {
-    "steps": 30,
-    "sampler": "Euler",
-    "cfg_scale": 7,
-    "width": 512,
-    "height": 1024,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        30
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        1024
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "masterpiece, best quality, best quality, Amazing, beautiful detailed eyes,((1girl)), finely detailed, Depth of field, extremely detailed CG unity 8k wallpaper, full body,(other Minato aqua), (((a girl wears Clothes with a silver texture))),((Extremely gorgeous metal style)),((Metal crown with ornate stripes)),((((Various metals background)))),Sputtered molten iron,(floating hair),((Hair like melted metal)),(((detailed face))), (((detailed eyes))),(((Clothes made of silver))),(((Clothes with gold lace))),((full body)),((((flowing gold and silver)))),(((((everything flowing and melt))))),(((((flowing iron))))),(((((flowing silver))))),((((lace flowing and melt))))",
     "negative_prompt": "(((ugly))),(((duplicate))),((morbid)),((mutilated)),(((tranny))),mutated hands,(((poorly drawn hands))),blurry,((bad anatomy)),(((bad proportions))),extra limbs, cloned face,(((disfigured))),(((more than 2 nipples))),((((missing arms)))),(((extra legs))),mutated hands,(((((fused fingers))))),(((((too many fingers))))),(((unclear eyes))),lowers, bad anatomy, bad hands,text,error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality,jpeg artifacts, signature, watermark, username, blurry, bad feet, text font ui,malformed hands, long neck, missing limb,(mutated hand and finger: 1.5),(long body: 1.3),(mutation poorly drawn: 1.2), disfigured, malformed mutated, multiple breasts, futa, yaoi"
 }

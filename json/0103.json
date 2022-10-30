@@ -1,11 +1,28 @@
 {
-    "steps": 50,
-    "sampler": "Euler a",
-    "cfg_scale": 5,
-    "width": 1024,
-    "height": 768,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "((extremely detailed CG unity 8k wallpaper)),(masterpiece), (best quality), (ultra-detailed), (best illustration),(best shadow), (an extremely delicate and beautiful), ((((1girl)))), dynamic angle, floating, finely detail, (bloom), (shine), glinting stars, ((((best detailed fireworks)))), ((((depth of field)))), (((hanabi))), Beautiful detailed girl, (((backlight))), extremely delicate and beautiful girls, ((summer long skirt)), (((solo))), best detailed hair, ((beautiful detailed water)), night sky, (((small breast))), beautiful detailed sky, beautiful detailed eyes, (((arms behind back))), long hair, (((dynamic angle))), long skirt",
     "negative_prompt": "Inverted mountain, low-quality, flowers, grass, distorted mountain, distorted light, low-quality light, low-quality mountain, low-quality illustration, low-quality background, nsfw, polar lowres,bad anatomy,bad hands,bad body,bad proportions,gross proportions,text, error, missing fingers,missing arms, missing legs, extra digit"
 }

@@ -1,11 +1,28 @@
 {
-    "steps": 26,
-    "sampler": "Euler a",
-    "cfg_scale": 6,
-    "width": 1152,
-    "height": 704,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        26
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        1152
+    ],
+    "height": [
+        704
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "Please draw a picture of an exquisite girl in a princess dress with delicate gold metal decorations. She stands there looking at me",
     "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,artist name,more than 2 thighs,nsfw"
 }

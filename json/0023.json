@@ -1,11 +1,28 @@
 {
-    "steps": 50,
-    "sampler": "Euler a",
-    "cfg_scale": 5,
-    "width": 960,
-    "height": 640,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        960
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "hiten_1, (((masterpiece))),best quality, illustration,beautiful detailed glow,detailed ice,beautiful detailed water,red moon,snowflake, (beautiful detailed eyes),expressionless,beautiful detailed white gloves, (floating cloud:1.2),azure hair,disheveled hair,long bangs, hairs between eyes, dark dress, (dark magician girl:1.1),black kneehighs, black ribbon,white bowties,midriff,{{{half closed eyes}}},big forhead,blank stare,flower,large top sleeves",
     "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms"
 }

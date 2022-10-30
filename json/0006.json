@@ -1,11 +1,28 @@
 {
-    "steps": 28,
-    "sampler": "Euler a",
-    "cfg_scale": 5,
-    "width": 1152,
-    "height": 832,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        1152
+    ],
+    "height": [
+        832
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "cinematic lighting, ((best quality)),((extremely_detailed_eyes_and_face)),((((ink)))),((illustration)),depth of field,((extremely detailed)),((watercolor)),((anime face)),(((dramatic_angle))),medium_breast,(8k_wallpaper),((bright_eyes)), (looking_at_viewers),(an detailed organdie dress),(((((very_close_to_viewers))))),((sleepy)),((masterpiece)),((((((surrounded_by_heavy_floating_sand_flow_and_floating_sharp_stones)))))),(((((messy_long_hair))))),((((veil)))),focus_on_face,(upper_body),(bare_shoulder),((((1girl)))),(golden_bracelet),(long yarn),((sunset)),lens_flare,light_leaks,((detailed_beautiful_desert_with_cactus)),medium_wind,(detailed_beautiful_sky)",
     "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name,bad feet,nude,skeleton_girl"
 }

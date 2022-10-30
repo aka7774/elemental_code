@@ -1,11 +1,28 @@
 {
-    "steps": 40,
-    "sampler": "Euler a",
-    "cfg_scale": 5,
-    "width": 768,
-    "height": 512,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "(((masterpiece))),(((best quality))),((ultra-detailed)),((illustration)),((an extremely delicate and beautiful)),dynamic angle,floating, (beautiful detailed eyes), (detailed light), (((ink))),depth of field,((watercolor)) 1girl, small breasts, red hair, blue eyes, ((veil)), bare shoulders, navel, (starry sky),(desert),(floating sand flow), (((colorful bubble)))",
     "negative_prompt": "lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet"
 }

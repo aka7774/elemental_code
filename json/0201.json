@@ -1,0 +1,28 @@
+{
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((masterpiece)),best quality, ((illustration)),,original,extremely detailed wallpaper,(((beijing opera))), (sketch),(wash painting),((color splashing)),((ink splashing)),((((dyeing)))),((Chinese painting)),((colorful))(beautiful and delicate mountain),(solo),(Fantasy creatures),((Chinese white tiger)),(solo;1.8),Black markings,(white tiger),((solo)),beautiful and delicate golden eyes,Huge claws,Big and strong,Diabolical,Tyrannica,(mountains)",
+    "negative_prompt": "NSFW,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms,large breasts"
+}

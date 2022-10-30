@@ -1,11 +1,28 @@
 {
-    "steps": 60,
-    "sampler": "Euler a",
-    "cfg_scale": 7,
-    "width": 1600,
-    "height": 768,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        60
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        1600
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "((solo)),best quality,Amazing,1girl,extremely detailed CG unity 8k wallpaper, masterpiece,(loli),(white hair),(((red streaked hair))), red eyes, (((full body))),(red hair), (((((Hold a red sword))))), (angry face)\uff0c(beautiful detailed eyes), ((Blood drop)),((Blood fog)),light shafts, soft focus, character focus,disheveled hair,long bangs, hairs between eyes, looking at viewer,lowing hair,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{(watercolor_\\(medium\\):1.215506),(((masterpiece))),((white clock)),((ultra-detailed))\uff0c((Covered in blood)),flowing hair,Exquisite Flame, (extremely beautiful detailed anime face:1.340096),dynamic angle, floating, (shine), extremely delicate and beautiful girls, bright skin, (best illustration), (best shadow), finely detail, Depth of field (bloom), (painting),( very delicate light, perfect and delicate limbs:1.05),beautiful detailed dress,Flying red petals,Holy lighting",
     "negative_prompt": "(mutated hands and fingers:1.5 ), (long body :1.3), (mutation, poorly drawn :1.2) , liquid body, text font ui, long neck, uncoordinated body,fused ears,huge breasts,((((ugly))))"
 }

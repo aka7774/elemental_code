@@ -1,11 +1,28 @@
 {
-    "steps": 30,
-    "sampler": "Euler a",
-    "cfg_scale": 7,
-    "width": 704,
-    "height": 512,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        30
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        704
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "(masterpiece:1.157625), (the best quality, super fine illustrations, beautiful and delicate water:1.1025), (very delicate light:1.1025), (nature, painting:1.1025), (fine lighting, more transparent stars, high-quality snowflakes, high-quality mountains, very fine 8KCG wallpapers:1.1025), (plateau), (((snow mountain))), sunrise, randomly distributed clouds, (snow field), cliff, ((rotating star sky)), ((lake in mountain stream)), luminous particles",
     "negative_prompt": "Inverted mountain, low-quality, flowers, grass, distorted mountain, distorted light, low-quality light, low-quality mountain, low-quality illustration, low-quality background"
 }

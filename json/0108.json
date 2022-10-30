@@ -1,11 +1,28 @@
 {
-    "steps": 30,
-    "sampler": "Euler a",
-    "cfg_scale": 6,
-    "width": 768,
-    "height": 512,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        30
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "masterpiece, best quality, illustration, stars in the eyes,dishevelled hair,Starry sky adorns hair\uff0c1 girl,sparkling anime eyes,beautiful detailed eyes, beautiful detailed stars,blighting stars,emerging dark purple across with white hair\uff0cmulticolored hair,beautiful detailed eyes,beautiful detailed sky, beautiful detailed water, cinematic lighting, dramatic angle",
     "negative_prompt": "lowres, bad anatomy, bad legs,bad hands, text,error, missing fngers,extra digt ,fewer digits,cropped, wort quality ,low quality,normal quality, jpeg,artifacts,signature,watermark, username, blurry, bad feet,artist name,bad anatomy,bad hands,bad body,bad proportions\uff0cworst quality,low quality\uff0coptical_illusion"
 }

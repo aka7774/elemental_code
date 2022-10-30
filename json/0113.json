@@ -1,11 +1,28 @@
 {
-    "steps": 80,
-    "sampler": "Euler a",
-    "cfg_scale": 6,
-    "width": 768,
-    "height": 512,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        80
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "(long hair:1.05),(revealing dress:1.05), (elbow gloves :1.05),(beautiful mermaid:1.215506),(smirk:1.05),(nose blush :1.05),stretch,Bare arms,Bare navel, (incredibly_absurdres), best quality,beautiful detailed eyes, blue_hair, (highly detailed beautiful fishtail:1.6), (((human hands))), (((masterpiece))), (blue_eyes), ((medium_breasts)), (the lower body is a fish:1.9)AND(no human thigh:1.2), seaweed, (full body), (white seashell), (curved and slender fish tail), (the lower body is bare:1.1), (beautiful tailfin:1.05), ((underwater)), (illustration), detailed water, ((a extremely delicate and beautiful girl)), (underwater forest), ((sunlight)), ((fishes)), (floating), watercolor_(medium), ((an extremely delicate and beautiful)), ((coral)), floating hair, glowing eyes, (splash), (detailed glow), ((Tyndall effect)), (landscape), hair_ornament, (small whirlpool), ((The sensation of water flowing)), (detailed scales on a mermaid)",
     "negative_prompt": "lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name, (human thighs:1.5), hips, foot, the hand becomes a fishtail, thigh_gap, thighs, the lower body is human, (two legs:1.5), multiple breasts, (mutated hands and fingers:1.5 ), (long body :1.3), (mutation, poorly drawn :1.2), bad shadow, ugly, (extra legs:1.5), (too long tail:1.5), one hand with more than 5 fingers, one hand with less than 5 fingers, one hand with more than 5 digit, one hand with less than 5 digit"
 }

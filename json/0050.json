@@ -1,11 +1,28 @@
 {
-    "steps": 50,
-    "sampler": "Euler a",
-    "cfg_scale": 5,
-    "width": 1024,
-    "height": 768,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "(solo:1.157625),highres,(best quality:1.05);(highly detailed:1.05),beautiful detailed blue eyes,light blush,expressionless,white hair,hair fluttering in the wind,mechanical arm armor,mechanical body armor,clothes,riding motor,{bodysuit,ruins of city in war,fire,burning cars,burning buildings,air force fleet in the sky,dusk,bird see",
     "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry"
 }

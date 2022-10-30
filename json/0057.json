@@ -1,11 +1,28 @@
 {
-    "steps": 30,
-    "sampler": "Euler",
-    "cfg_scale": 7,
-    "width": 1216,
-    "height": 576,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
-    "prompt": "(((crystals texture Hair))),(extremely detailed CG:1.276282),(8k_wallpaper:1.1025),(Crystalline purple gemstone gloves:1.215506),((beautiful detailed Glass hair)),((Glass shaped texture hand)),((Crystallize texture body)),Gem body,Hands as clear as jewels,Crystallization of clothes,((crystals texture skin)),sparkle, lens flare, light leaks, Broken glassC(Detailed Glass shaped clothes:1.215506)C ((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)), ((disheveled hair)), ((frills)), (1 girl), (solo), dynamic angle, big top sleeves, floating, beautiful detailed gemstone sky, gemstone sea, beautiful detailed eyes, overexposure, side blunt bangs, hairs between eyes, ribbons, bowties, buttons, bare shoulders, (((small breast))), pleated skirt, crystals texture flowersC ((Detailed crystallized clothing)),(gemstone of body)Csolo focus,{(Iridescence and rainbow hair:1.4071),(detailed cute anime face:1.340096),(loli:1.1025),{(watercolor_(medium):1.215506),(((masterpiece))),(((clock))),(((red))),(((blood))),finely detail,Depth of field,Blood drop,Blood fog",
+    "steps": [
+        30
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        1216
+    ],
+    "height": [
+        576
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(((crystals texture Hair))),(extremely detailed CG:1.276282),(8k_wallpaper:1.1025),(Crystalline purple gemstone gloves:1.215506),((beautiful detailed Glass hair)),((Glass shaped texture hand)),((Crystallize texture body)),Gem body,Hands as clear as jewels,Crystallization of clothes,((crystals texture skin)),sparkle, lens flare, light leaks, Broken glassC(Detailed Glass shaped clothes:1.215506), ((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)), ((disheveled hair)), ((frills)), (1 girl), (solo), dynamic angle, big top sleeves, floating, beautiful detailed gemstone sky, gemstone sea, beautiful detailed eyes, overexposure, side blunt bangs, hairs between eyes, ribbons, bowties, buttons, bare shoulders, (((small breast))), pleated skirt, crystals texture flowers, ((Detailed crystallized clothing)),(gemstone of body),solo focus,{(Iridescence and rainbow hair:1.4071),(detailed cute anime face:1.340096),(loli:1.1025),{(watercolor_(medium):1.215506),(((masterpiece))),(((clock))),(((red))),(((blood))),finely detail,Depth of field,Blood drop,Blood fog",
     "negative_prompt": "lowres,bad anatomy,bad hands,text,error,ugly,duplicate,morbid,boken limb,incorrect limb,fusion finger,lose finger,multiple finger,multiple digit,fusion hand,lose leg,fused leg,multiple leg,bad feet,fewer digits,cropped,worst quality,low quality,normal quality,simple background,jpeg artifacts,signature,watermark,username,blurry,text font ui,malformed hands,long neck,missing limb,(mutated hand and finger: 1.5),(long body: 1.3),(mutation poorly drawn: 1.2),disfigured,malformed mutated,multiple breasts,futa,yaoi,big breasts"
 }

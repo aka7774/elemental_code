@@ -1,11 +1,28 @@
 {
-    "steps": 39,
-    "sampler": "Euler",
-    "cfg_scale": 7,
-    "width": 512,
-    "height": 1024,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        39
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        1024
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "masterpiece, (best quality), Amazing, beautiful detailed eyes,((((1girl)))), finely detailed, Depth of field, extremely detailed CG unity 8k wallpaper,(((((full body))))),(((cute animal face))), (((a girl wears Clothes Black and white Taoist robes)))\uff0c((Extremely gorgeous magic style))\uff0c((((gold and silver lace)))),(((flowing lace))),(((flowing ((black)) and white background)))\uff0c(((((gorgeous detailed eyes))))),(((((((gorgeous detail face))))))),((floating hair)),(((Pick and dye black hair in white hair))),(((flowing transparent black))),(((flowing transparent white))),(((((ink))))),((((small breast)))),(((extremely detailed gorgeous tiara))),(((black and white hair))),((black hair stick)),((white hair ornament)),((gold gorgeous necklace)),((flowing hair))\uff0c(((The picture fills the canvas))),((The character is in the center of the frame)),(((flowing))),((bright pupils)),((((melt)))),(((((black and white melt)))))",
     "negative_prompt": "(((ugly))),(((duplicate))),((morbid)),((mutilated)),(((tranny))),mutated hands,(((poorly drawn hands))),blurry,((bad anatomy)),(((bad proportions))),extra limbs, cloned face,(((disfigured))),(((more than 2 nipples))),((((missing arms)))),(((extra legs))),mutated hands,(((((fused fingers))))),(((((too many fingers))))),(((unclear eyes))),lowers, bad anatomy, bad hands,text,error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality,jpeg artifacts, signature, watermark, username, blurry, bad feet, text font ui,malformed hands, long neck, missing limb,(mutated hand and finger: 1.5),(long body: 1.3),(mutation poorly drawn: 1.2), disfigured, malformed mutated, multiple breasts, futa, yaoi"
 }

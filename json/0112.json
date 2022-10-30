@@ -1,11 +1,28 @@
 {
-    "steps": 25,
-    "sampler": "Euler a",
-    "cfg_scale": 4,
-    "width": 768,
-    "height": 768,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        25
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "masterpiece, best quality, illustration, beautiful detailed eyes,colorful background,mechanical prosthesis,mecha coverage,emerging dark purple across with white hair,pig tails,disheveled hair,fluorescent purple,cool movement,rose red eyes,beatiful detailed cyberpunk city\uff0cmulticolored hair,beautiful detailed glow,1 girl, expressionless,cold expression,insanity, long bangs,long hair, lace,dynamic composition, motion, ultra - detailed, incredibly detailed, a lot of details, amazing fine details and brush strokes, smooth, hd semirealistic anime cg concept art digital painting",
     "negative_prompt": "lowres, bad anatomy, bad legs,bad hands, text,error, missing fingers,extra digt ,fewer digits,cropped, worst quality ,low quality,normal quality, jpeg,artifacts,signature,watermark, username, blurry, bad feet,artist name,bad anatomy,bad hands,bad body,bad proportions\uff0cworst quality,low quality\uff0coptical_illusion"
 }

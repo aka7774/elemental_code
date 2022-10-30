@@ -1,11 +1,28 @@
 {
-    "steps": 23,
-    "sampler": "DDIM",
-    "cfg_scale": 4,
-    "width": 960,
-    "height": 640,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        23
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        960
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "(((masterpiece))),best quality, illustration,(beautiful detailed girl), a girl ,solo,bare shoulders,flat_chst,diamond and glaring eyes,beautiful detailed cold face,very long blue and sliver hair,floaing black feathers,wavy hair,black and white sleeves,gold and sliver fringes,a (blackhole) behind the girl,a silver triple crown inlaid with obsidian,(sit) on the black ((throne)), (depth) of (field)",
     "negative_prompt": "1,bad feet_hand_finger_leg_eye,missing fingers,worst low normal quality,bad face,blurry:1.1,Asymmetrical eyes,Simple background"
 }

@@ -1,11 +1,28 @@
 {
-    "steps": 60,
-    "sampler": "Euler a",
-    "cfg_scale": 7,
-    "width": 1024,
-    "height": 512,
-    "sd_model_hash": "925997e9",
-    "clip_skip": 2,
+    "steps": [
+        60
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
     "prompt": "A man with has short black hair, a round hat, no facial features, a high collar coat, Flashes of lightning from the hands,full body,, (((masterpiece))), (((best quality))), ((ultra-detailed)), (illustration), (detailed light),((Expressionless)),, (((masterpiece))), (((best quality))), ((ultra-detailed)), (illustration), (detailed light),((an extremely delicate and beautiful)),((man)),((lightning in hand)),Lightning surrounds men,(((Lightning chain))),Suspended crystal, with lightning inside the crystal,((Suspended colorless crystal))",
     "negative_prompt": "lowres, bad anatomy, bad hands, text.error,missing fngers,extra digt ,fewer digits,cropped, wort quality .low quality,.normal quality,.jpegartifacts.signature.watermark, username, blurry, bad feet,girl,women"
 }
