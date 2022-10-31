@@ -1,0 +1,3 @@
+masterpiece, best quality, masterpiece, best quality,highly detailed,(best quality:1.05), (masterpiece:1.1025), (highres:1.05),original, (an extremely delicate and beautiful:1.05),masterpiece, best quality,highly detailed,(best quality:1.05), steampunk,  evil flower(highres:1.05), extremely detailed 8K wallpaper, 1girl
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
+Steps: 28, Sampler: Euler, CFG scale: 4.5, Seed: 1853799411, Size: 768x768, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

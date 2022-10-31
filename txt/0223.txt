@@ -1,0 +1,3 @@
+((best quality)), ((masterpiece)), ((ultra-detailed)),(illustration),(oil paint),It was raining hard at night,(thalassophobia),(Huge eyes),Only his head was above the water,(Monster),(Phobia of giant objects),(heavy fog),from below,(ship),searchlight,You can't see the whole picture
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
+Steps: 45, Sampler: Euler a, CFG scale: 4.5, Seed: 219854805, Size: 768x512, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

@@ -1,0 +1,3 @@
+masterpiece, best quality, (girls), gathering
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet
+Steps: 65, Sampler: Euler a, CFG scale: 11, Seed: 2958715173, Size: 1024x512, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

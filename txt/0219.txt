@@ -1,0 +1,3 @@
+(solo),CAD,blueprint,Engineering line drawings,Line diagram,2D,(overexposure),(((masterpiece))),((extremely detailed:1.114514)),Hdr
+Negative prompt: nsfw, lowres, bad anatomy, bad hands, text error, missing fingers, extra digits, fewer digits, cropped, worst quality, low quality, standard quality, peg artifacts, signature, watermark, username, blurry
+Steps: 50, Sampler: Euler a, CFG scale: 12, Seed: 3764284934, Size: 1024x1024, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

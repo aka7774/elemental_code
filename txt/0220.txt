@@ -1,0 +1,3 @@
+(((best quality)))，((Dunhuang frescoes))，(Only murals ),chinece_ancient ，macro shot，longsleeve，(tradictional_chinese_painting), Shadow Play，Old Animation，three-dimensional，temple，（traditional Chinese painting），cloud，Painted on a rock wall，mural，cave，Characters step on the cloud，Tang painting，Rich rhyme，Buddhism，comic，chinese characters
+Negative prompt: NSFW,owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms,large breasts
+Steps: 28, Sampler: DDIM, CFG scale: 11, Seed: 3734428025, Size: 768x512, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

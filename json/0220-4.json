@@ -1,0 +1,28 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(((best quality)))\uff0c((fresco)), street mural\uff0c(character  graffiti )\uff0c(Colourful), Cyberpunk",
+    "negative_prompt": "NSFW,owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms,large breasts"
+}

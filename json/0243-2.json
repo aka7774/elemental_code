@@ -1,0 +1,31 @@
+{
+    "steps": [
+        32
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "Botanical illustration, masterpiece, best quality, extremely detailed",
+    "negative_prompt": "lowres, bad anatomy, error, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, artist name, blurred, poorly drawn face, extra fingers, missing fingers, fused fingers, abnormal fingers, fused hands, ugly, 3d"
+}

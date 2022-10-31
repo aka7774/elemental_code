@@ -1,0 +1,3 @@
+((art of paper-cut))，china ，Red and white，PAPER-CUT，calligraphy，man and wife，(Flower, bird, insect and fish)
+Negative prompt: NSFW,owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms,large breasts
+Steps: 28, Sampler: DDIM, CFG scale: 11, Seed: 1794611889, Size: 768x512, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        960
+    ],
+    "height": [
+        576
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "masterpiece, best quality, CG 8k wallpaper, illustration, amazing fine details and brush strokes, smooth,(((1girl))), extremely detailed, dynamic composition, motion, incredibly detailed, white court dress,loli, moonlight, beautiful, detailed eyes,[white hair\"blue hair:0.5],blue eyes,long_curly_hair, hands behind back, highly detailed, solo, full,amazing, beautiful, finely detail, (stars),galaxy,ray trace, Depth of field",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text,error, missing fingers,extra digits,fewer digits,cropped, worth quality ,low quality, normal quality, jpeg artifacts,signature,watermark, username, blurry, bad feet, realistic,3d,(large breast),blush,long neck,missing leg,merged leg,more than one girl,more than one arm"
+}

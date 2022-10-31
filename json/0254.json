@@ -1,0 +1,31 @@
+{
+    "steps": [
+        30
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(extremely detailed 8k wallpaper:1.05),(masterpiece:1.05),(best quality:1.05),(doll:1.276282),(BJD:1.1025),toy doll,Marionette,(ball joint:1.05),(lifeless:1.215506),(inorganic:1.157625),(1girl:1.05),beautiful detailed Glass eye,handled hair,gorgeous hair,expressionless,indifferent,hyperrealistic,gothic,Classical decoration,sit,zoom in on eyes,focus on eyes,rococo style,(silk thread:1.1025)",
+    "negative_prompt": "(((more than 2 nipples))),((((missing arms)))),(((extra legs))),mutated hands,(((((fused fingers))))),(((((too many fingers))))),(((unclear eyes))), bad anatomy, text, bad face, error, extra digit, fewer digits, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, {blurry:1.1}, missing arms, missing legs, more than two legs,bad anatomy,mutation"
+}

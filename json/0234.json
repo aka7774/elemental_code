@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(((There are Suspended staircase above the sky))), (((only suspended staircase))), (((Clouds surround the white suspended staircase))), The suspended staircase are snow-white, There are only suspended staircase in the sky, White feathers fluttered around the suspended staircase, (((Heaven, beautiful detailed sky))),  beautiful detailed cumulonimbus, (((extremely detailed CG unity 8k wallpaper, masterpiece, best quality, ultra-detailed))), (best illumination, best shadow, an extremely delicate and beautiful), dynamic angle, floating, finely detail, (bloom), (shine), glinting stars, feather,nature,(sunlight), fairyland, extremely delicate and beautiful girls, full body, Cloud gap light",
+    "negative_prompt": "(ugly:1.157625),(duplicate:1.157625),(morbid:1.1025),(mutilated:1.1025),(tranny:1.157625),mutated hands,(poorly drawn hands:1.157625),blurry,(bad anatomy:1.1025),(bad proportions:1.157625),extra limbs,cloned face,(disfigured:1.157625),(more than 2 nipples:1.157625),(missing arms:1.215506),(extra legs:1.157625),mutated hands,(fused fingers:1.276282),(too many fingers:1.276282),(unclear eyes:1.157625),lowers,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,bad feet,(monotone:1.276282), (Palaces, ruins, thrones:1.157625)"
+}

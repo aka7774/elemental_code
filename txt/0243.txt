@@ -1,0 +1,3 @@
+watercolor, masterpiece, best quality, extremely detailed, 1girl, full body, beautiful detailed eyes, cute anime face, full body, beautiful detailed face, white hair, (Botanical illustration:1.5), white dress
+Negative prompt: lowres, bad anatomy, error, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, artist name, blurred, poorly drawn face, extra fingers, missing fingers, fused fingers, abnormal fingers, fused hands, ugly, 3d
+Steps: 32, Sampler: Euler a, CFG scale: 11, Seed: 4006921233, Size: 512x512, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

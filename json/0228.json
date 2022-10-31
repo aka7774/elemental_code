@@ -1,0 +1,31 @@
+{
+    "steps": [
+        60
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        960
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(Very detailed CG unified 8k wallpaper),(masterpiece),(best quality), (Super detailed details), (best illustration), (extremely delicate and beautiful),(dynamic angle),(glow), classics,Realistic,((very delicate light)),((nature)),solo,(((Black hole))), ((Kagantua black hole)),astronomy,(bright and fine Black-Hole Accretion Disk:1.4),(\u9ed1\u6d1e\u89c6\u754c:1.2), bright and fine (bipolar jet:1.3),((prospect)),(Schwarzschild radius:1.2),chandrasekhar limit",
+    "negative_prompt": "Low quality mapping, low quality cg, asymmetric bipolar jet, low detail, character features,Text watermark"
+}

@@ -1,0 +1,28 @@
+{
+    "steps": [
+        150
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        576
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "extremely detailed 8k wallpaper,(highly detailed:1.1), ((masterpiece:1.1)),[anime:Impasto:0.5], intricate , fantasy,(1ship),(ocean:1.2),[golden boat:golden boat with (green fire:1.2):0.1], clear sky ,wind ,beautiful sky,(nightsky),(galaxy), (huge blood moon in the background:1.05)",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text,error, missing fingers,extra digits,fewer digits,cropped, worth quality ,low quality, normal quality, jpeg artifacts,signature,watermark, username, blurry, bad feet, realistic,3d,(large breast),blush,long neck,bad arms,bad face,realistic,3d,mature,mutiple ship,more than 1ship"
+}

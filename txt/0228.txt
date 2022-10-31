@@ -1,0 +1,3 @@
+(Very detailed CG unified 8k wallpaper),(masterpiece),(best quality), (Super detailed details), (best illustration), (extremely delicate and beautiful),(dynamic angle),(glow), classics,Realistic,((very delicate light)),((nature)),solo,(((Black hole))), ((Kagantua black hole)),astronomy,(bright and fine Black-Hole Accretion Disk:1.4),(黑洞视界:1.2), bright and fine (bipolar jet:1.3),((prospect)),(Schwarzschild radius:1.2),chandrasekhar limit
+Negative prompt: Low quality mapping, low quality cg, asymmetric bipolar jet, low detail, character features,Text watermark
+Steps: 60, Sampler: Euler, CFG scale: 7, Seed: 219854805, Size: 960x768, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

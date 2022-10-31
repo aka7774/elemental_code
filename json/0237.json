@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "masterpiece,(best quality),highly detailed,ultra-detailed,illustration,Depth of field,(Dark prison:1.2),cold,solo,(1 girl),detailed eyes,(Hematic red eyes),(black short hair),bob haircut,(tareme),(crazy),expressionless,(prisoner's garb),(long_sleeves),off shoulder,miniskirt,(Monster Energy:1.2),(heavy metal:1.2),(metal jewelry),choker,cross-laced footwear,cuffs,wrist cuffs,(chain),hammer,(Demon Array),(666:1.2),Dry ice fog",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry"
+}

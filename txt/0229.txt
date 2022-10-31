@@ -1,0 +1,3 @@
+masterpiece,best quality,Top view，Close-up shots，Colorful deliciousness，Multiple dishes，Fresh style，cake，pink violet，cream，(golden rose),cacao,ice_cream,candle，[Matcha]，streamers，High detail，Delicacies，Stage lighting，(Shining tablecloth)，Plates and forks，seasoning，State banquet
+Negative prompt: Low quality，middle_quality,Cluttered placement，watermark，signature，low detail,ugly_food,Distorted picture，Misplaced picture，Incomplete，Densely packed，error，duplicate，mutation，Vague vistas，Low image ，poorly drawn，mutilated piece，Food that has been eaten
+Steps: 55, Sampler: DDIM, CFG scale: 7, Seed: 219854805, Size: 832x832, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

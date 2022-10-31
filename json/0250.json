@@ -1,0 +1,31 @@
+{
+    "steps": [
+        71
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        12
+    ],
+    "width": [
+        1344
+    ],
+    "height": [
+        832
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(an extremely delicate and beautiful),((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)),((solo)),((((a girl)))),(beautiful detailed girl),(((cheongsam))),((((((arms_behind_back)))))) ,red eyes,((((beautiful detailed eyes)))),white hair,spring festival,(((chinese new year))),(((snow))),((lunar new year)),firecracker,Temple Fair,((busy street)),(detailed fireworks), finely detail,(firecracker),((the best building)),(((best shadow))),many people,(Flying snowflakes)",
+    "negative_prompt": "lowres, bad anatomy, bad legs,bad hands, text,error, missing fngers,extra digt ,fewer digits,cropped, wort quality ,low quality,normal quality, jpeg,artifacts,signature,watermark, username, blurry, bad feet,artist name,bad anatomy,bad hands,bad body,bad proportions\uff0cworst quality,low quality\uff0coptical_illusion"
+}

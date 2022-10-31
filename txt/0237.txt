@@ -1,0 +1,3 @@
+masterpiece,(best quality),highly detailed,ultra-detailed,illustration,Depth of field,(Dark prison:1.2),cold,solo,(1 girl),detailed eyes,(Hematic red eyes),(black short hair),bob haircut,(tareme),(crazy),expressionless,(prisoner's garb),(long_sleeves),off shoulder,miniskirt,(Monster Energy:1.2),(heavy metal:1.2),(metal jewelry),choker,cross-laced footwear,cuffs,wrist cuffs,(chain),hammer,(Demon Array),(666:1.2),Dry ice fog
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
+Steps: 50, Sampler: Euler a, CFG scale: 4, Seed: 2776637349, Size: 1024x640, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

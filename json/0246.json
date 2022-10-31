@@ -1,0 +1,31 @@
+{
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "hypernet": [
+        0
+    ],
+    "hypernet_strength": [
+        0
+    ],
+    "ensd": [
+        17415
+    ],
+    "prompt": "original, (masterpiece), (illustration), (extremely fine and beautiful), (perfect details), (unity CG 8K wallpaper:1.05), (beautiful and clear background:1.25), (depth of field:0.7), (1 cute girl with (2 fox ear:0.9) and (fox tail on the back:1.2) stands aside the river:1.15). (cute:1.3), (detailed beautiful eyes:1.3), (beautiful face:1.3), silver hair, silver ear, (pink hair:0.7), (pink ear:0.7), long hair, (japanese kimomo:1.25), (hair blowing with the wind:1.1), (blue eye:1.1), (little girl:1.1), butterflys flying around, (moon light:0.6), tree, (summer), (night:1.2), (close-up:0.35), (gloves:0.8), solo",
+    "negative_prompt": "(poorly drawn hands), (poorly drawn face), weird, (((fat))), ((cropped)), ((fused fingers)), ((too many fingers)), (malformed limbs), (((bad anatomy))), ((ugly)), out of frame, blurry, gross propotions, distorted face, distorted body, ((distorted fingers)), missing leg, more than 2 leg, more than 2 feet, more than 2 arms, text, ui, signature, icon, watermark, misplaced limbs, leg too big, leg too small, fused hands, fused arms, distorted backgroud, fused buildings, ((finger too short)), more than 1 right hand, more than 1 left hand, wrong direction of limbs, wrong direction of legs, wrong direction of feet, misplaced facial features, unbalanced facial features, ((body too long)), ((arm too short)), (poorly drawn joint), misplaced joint, wrong joint angle, disappearing legs, disappearing arms, disappearing limbs, ((fused limbs)), thumb too long, fingers too long, missing hands, missing arms, ((misplaced animal tail)), ((malformed animal tail)), poorly drawn animal tail, less than 2 ears, ((more than 2 ears)), ((more than 2 animal ears)), ((one arm longer than another)), ((missing palm)), ((palm disappeared)), sharp fingers, ((two eyes in different size)), weird ears, weird animal ears, (weird finger), (weird hand), weird limbs, weird arms, weird legs, thin wrist, more than 2 eyes, malformed eyes, misplaced eyes, strange animals, (3 fox ears:1.7), (fox ear in middle), (hands)"
+}

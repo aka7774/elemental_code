@@ -1,0 +1,28 @@
+{
+    "steps": [
+        60
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        896
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(master piece:1.1025),(((best quality))),(((ultra_detailed)))grand movement,(illustration),cool movement,((1 Orient dragon)),black background,beautiful and detailed squama,((beautiful and detailed loong_horns)),beautiful and detailed dragon&apos;s head,beautiful and detailed loong_tail,feature ,flames,lightning effect,rainy,(suspending),full_loong,coherent loong,(((beautiful_and_detailed_claw))),((loong_with_4_claws)),overlook view,coordinate ,((slim and long)) ,((slim claws)), black, half hidden in the cloud,(((wash_and_int))),Chinoiserie,Chinese_int,(((mount the cloud and ride the mist)))",
+    "negative_prompt": "(ugly:1.157625),(duplicate:1.157625),(morbid:1.1025),(mutilated:1.1025),(tranny:1.157625),mutated hands,(poorly drawn hands:1.157625),blurry,(bad anatomy:1.1025),(bad proportions:1.157625),extra limbs,cloned face,(disfigured:1.157625),(more than 2 nipples:1.157625),(missing arms:1.215506),(extra legs:1.157625),mutated hands,(fused fingers:1.276282),(too many fingers:1.276282),(unclear eyes:1.157625),lowers,bad anatomy,bad hands,text,error,missing fingers,1 unit with multipul heads,a unit with multipul tails,heads together,too_long_neck,missing claws,missing legs,missing eyes, extra tail,fat body,strenge claw,streng proportion,too_thin_body,extra head,too thick neck, extra body,too long nose"
+}

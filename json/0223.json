@@ -1,0 +1,31 @@
+{
+    "steps": [
+        45
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((best quality)), ((masterpiece)), ((ultra-detailed)),(illustration),(oil paint),It was raining hard at night,(thalassophobia),(Huge eyes),Only his head was above the water,(Monster),(Phobia of giant objects),(heavy fog),from below,(ship),searchlight,You can't see the whole picture",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry"
+}

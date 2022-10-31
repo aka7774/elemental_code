@@ -1,0 +1,28 @@
+{
+    "steps": [
+        30
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        1280
+    ],
+    "height": [
+        448
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((masterpiece)),((best quality)),(ultra-detailed),(illustration),((an extremely delicate and beautiful)),(dynamic angle),chinese dragon,china,1girl,(beautiful detailed eyes),cute pink eyes,green pupil,detailed face,upper body,messy floating hair,disheveled hair,focus,perfect hands",
+    "negative_prompt": "nsfw,lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry, missing arms,long neck,humpbacked,shadow,nude"
+}

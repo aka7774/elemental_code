@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "masterpiece, best quality, masterpiece, best quality,highly detailed,(best quality:1.05), (masterpiece:1.1025), (highres:1.05),original, (an extremely delicate and beautiful:1.05),masterpiece, best quality,highly detailed,(best quality:1.05), steampunk,  evil flower(highres:1.05), extremely detailed 8K wallpaper, 1girl",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry"
+}

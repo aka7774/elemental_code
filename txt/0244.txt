@@ -1,0 +1,3 @@
+((masterpiece)),((best quality)),(ultra-detailed),(illustration),((an extremely delicate and beautiful)),(dynamic angle),chinese dragon,china,1girl,(beautiful detailed eyes),cute pink eyes,green pupil,detailed face,upper body,messy floating hair,disheveled hair,focus,perfect hands
+Negative prompt: nsfw,lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry, missing arms,long neck,humpbacked,shadow,nude
+Steps: 30, Sampler: DDIM, CFG scale: 7, Seed: 232565669, Size: 1280x448, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

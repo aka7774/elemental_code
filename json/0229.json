@@ -1,0 +1,28 @@
+{
+    "steps": [
+        55
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        832
+    ],
+    "height": [
+        832
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "masterpiece,best quality,Top view\uff0cClose-up shots\uff0cColorful deliciousness\uff0cMultiple dishes\uff0cFresh style\uff0ccake\uff0cpink violet\uff0ccream\uff0c(golden rose),cacao,ice_cream,candle\uff0c[Matcha]\uff0cstreamers\uff0cHigh detail\uff0cDelicacies\uff0cStage lighting\uff0c(Shining tablecloth)\uff0cPlates and forks\uff0cseasoning\uff0cState banquet",
+    "negative_prompt": "Low quality\uff0cmiddle_quality,Cluttered placement\uff0cwatermark\uff0csignature\uff0clow detail,ugly_food,Distorted picture\uff0cMisplaced picture\uff0cIncomplete\uff0cDensely packed\uff0cerror\uff0cduplicate\uff0cmutation\uff0cVague vistas\uff0cLow image \uff0cpoorly drawn\uff0cmutilated piece\uff0cFood that has been eaten"
+}
