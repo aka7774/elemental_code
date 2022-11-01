@@ -1,0 +1,31 @@
+{
+    "steps": [
+        59
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        832
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(((masterpiece))), (((best quality))), ((ultra-detailed)),(((lots of details))),(beautiful detailed girl),((Epic Light and Shadow)),cinematic angle ,oil painting  , (illustration), (detailed light),((an extremely delicate and beautiful)),A girl was sitting in a dark environment. Behind her was a strange purple portal. The portal stretched out many tentacles and passed by the girl,(((Wariza))),weak,(((half_closed_eyes))),(((Purple_Energy_Transfer_Gate))),bare_shoulders,portrait,The girl is wearing a black gown,portrait,Dark ray,(((Detail background))),(cute anime face),((Headdress)),((Beautiful accessories)),small_breasts",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,naked,Close eyes"
+}

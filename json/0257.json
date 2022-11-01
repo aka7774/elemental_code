@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        2
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "worker bees\uff0cdrones\uff0c(queen bee with a detailed face of girl in production:1.276282)\uff0cin beehive\uff0c(game_cg:1.215506),(by famous artist:1.215506),(highly detailed:1.1025),(masterpiece:1.1025),(best quality:1.157625)\uff0c(Beeswax:0.952),(honey:0.952), (Royal jelly:0.952)\uff0csolo",
+    "negative_prompt": "NSFW,bad hands"
+}

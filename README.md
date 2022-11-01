@@ -38,6 +38,9 @@ https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
 - 元素法典第1.5巻
 https://docs.qq.com/doc/DWGh4QnZBVlJYRkly
 
+- 元素法典第2巻
+https://docs.qq.com/doc/DWEpNdERNbnBRZWNL
+
 - nai2sd-Converter
 https://github.com/AUTOMATIC-gassy/nai2sd-Converter
 

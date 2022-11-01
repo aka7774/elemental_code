@@ -1,0 +1,31 @@
+{
+    "steps": [
+        48
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        13
+    ],
+    "width": [
+        1344
+    ],
+    "height": [
+        832
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)), A lot of waving glow sticks,Stage,Concert,(solo),1 girl,((singing)),headset,(leaning_forward:1.2),(arms_behind_back),((extremely_detailed_eyes_and_face)),colorful,,Tokyo Dome,ray tracing,(disheveled hair),cherry_blossoms,petals,Flying notes",
+    "negative_prompt": "An incomplete face,A contorted face,hand,lowres,bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands, long neck, Humpbacked,extra legs"
+}

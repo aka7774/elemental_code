@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        3
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "melting,abstract,splash,hyper detailed ,small breast,white hair, short hair with long locks,small breast ,messy hair, blue eyes, backlighting , sand, water,black background, dust clodust,water splash,long sleeves ,white clothes, splash,oversized clothes",
+    "negative_prompt": "(large breasts, huge breasts, worst quality,fat,child, low-teen:1.276282)masterpiece,black hair, ,,adult, old, phobia,loli, low-teen,blush,fate,,realistic,Smrealist,clothes,nsfw,masterpiece,a,,naturalistic,hair,hair,sand,dress,hatching,absolutely long hair,nsfw, owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, liquid tongue, long neck, fused ears, bad ears, poorly drawn ears, extra ears, liquid ears, heavy ears, missing ears, fused animal ears, bad animal ears, poorly drawn animal ears, extra animal ears, liquid animal ears, heavy animal ears,missing animal ears, bad hairs,poorly drawn hairs, fused hairs, bad face, fused face, poorly drawn face, cloned face, big face, long face, bad eyes, fused eyes poorly drawn eyes, extra eyes"
+}

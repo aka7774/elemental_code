@@ -1,0 +1,31 @@
+{
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "DPM2 a Karras"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        1280
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "original, (masterpiece), (illustration), (extremely fine and beautiful),(extremely detailed:1.15) ,(perfect details), (unity CG 8K wallpaper:1.05), (beautiful and clear background:1.25), (depth of field:0.7),(A handsome Ancient Monk1.5),(detailed beautiful eyes:1.15), (detailed beautiful face:1.35),(bald:1.4),(Buddha's light shines back:0.9),(The plate sits in front of the temple1.25),(tower:1.1),(Red and yellow and cassock: 1.25),(golden and white eye:0.9),(Early in the morning),(close-up:0.35),treee,china,(mountain:0.9),(fantasy:0.85),(legendary Dragon King king:1.35),(Chinese dragon:1.25),(beautiful detailed glow),(fog:0.9),chinadre, traditional chinese painting(Chinese wind:1.1)",
+    "negative_prompt": "(poorly drawn hands), (poorly drawn face), weird, (((fat))), ((cropped)), ((fused fingers)), ((too many fingers)), (malformed limbs), (((bad anatomy))), ((ugly)), out of frame, blurry, gross propotions, distorted face, distorted body, ((distorted fingers)), missing leg, more than 2 leg, more than 2 feet, more than 2 arms, text, ui, signature, icon, watermark, misplaced limbs, leg too big, leg too small, fused hands, fused arms, distorted backgroud, fused buildings, ((finger too short)), more than 1 right hand, more than 1 left hand, wrong direction of limbs, wrong direction of legs, wrong direction of feet, misplaced facial features, unbalanced facial features, ((body too long)), ((arm too short)), (poorly drawn joint), misplaced joint, wrong joint angle, disappearing legs, disappearing arms, disappearing limbs, ((fused limbs)), thumb too long, fingers too long, missing hands, missing arms, ((misplaced animal tail)),less than 2 ears, ((more than 2 ears)),(watermark)"
+}

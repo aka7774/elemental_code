@@ -1,0 +1,31 @@
+{
+    "steps": [
+        64
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        12
+    ],
+    "width": [
+        1216
+    ],
+    "height": [
+        704
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)), ((disheveled hair))\uff0cspace\uff0cspacecraft\uff0c\uff08spacecraft_interior\uff1a2.0\uff09\uff0cborder\uff0cfloating\uff0cform behind\uff0cglowing\uff0cgrey border\uff0cScience fiction\uff0c{{extremely detailed CG unity 8k wallpaper}}\uff0csuper fine illustrations\uff0cthe best quality\uff0ccockpit\uff0cholographic monitor\uff0chorizon\uff0crealistic\uff0cplane\uff0c1girl \uff0cbangs \uff0cblue eyes \uff0cbodysuit\uff0cbook\uff0cbrown hair \uff0ccable \uff0ccockpit \uff0ccomputer \uff0cdrawing tablet ,earth (planet) \uff0cfloating \uff0cfloating book \uff0c floating object \uff0cglasses\uff0cgraphite (medium) \uff0cgrey bodysuit\uff0chair over shoulder\uff0cjuice box\uff0c laptop \uff0clong hair\uff0c looking to the side\uff0cplanet\uff0cscenery \uff0cscreen\uff0csemi-rimless eyewear\uff0csitting\uff0csolo\uff0cspace station\uff0cstar\uff0csunlight\uff0csunrise\uff0ctraditional media\uff0ckunder-rim eyewear\uff0cwindow\uff0czero gravity\uff0c\uff08aerial battle),\uff08battle),\uff08crossover ),(dogfight ),(backlight:1.5),middle",
+    "negative_prompt": "low-quality,low-quality illustration, low-quality background, lowres, bad anatomy\uff0clongbody, lowres, bad anatomy, bad hands, missing fingers, pubic hair,extra digit, fewer digits, cropped, worst quality, low quality"
+}

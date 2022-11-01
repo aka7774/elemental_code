@@ -1,0 +1,31 @@
+{
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        704
+    ],
+    "height": [
+        704
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "long hair, beautiful detailed eyes, beautiful detailed hair, petals,(((flowing))), (((((full body))))),1girl,((paper-cut)),red,(beautiful detailed eyes),floating_hai",
+    "negative_prompt": "lowres, text,error, extra digt , fewer digits, cropped, wort quality , low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, big boobs, large_breasts"
+}

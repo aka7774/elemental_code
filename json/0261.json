@@ -1,0 +1,31 @@
+{
+    "steps": [
+        64
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        1280
+    ],
+    "height": [
+        960
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((masterpiece)), (((best quality))), (ultra-detailed:1.5), ((illustration)), ((disheveled hair)),(1girl)\uff0csolo,ambiguous gender\uff0canimal ears\uff0cartist name\uff0cblack footwear\uff0cblack gloves \uff0cblack pants\uff0cblack ribbon\uff0cblood\uff0cblood from eyes\uff0cblood from mouth\uff0cblood on clothes\uff0cbloodonface\uff0cblue coat\uff0cblue hair\uff0cboots\uff0cbuilding\uff0cbulletproof vest\uff0ccat ears\uff0ccattail\uff0ccaution tape\uff0cA broken building,character name\uff0ccity\uff0ccityscape\uff0ccloud\uff0ccloudy sky\uff0ccoat\uff0ccorpse\uff0ccrane (machine),crystal\uff0ccuts\uff0ceyelashes\uff0cgloves\uff0cgreen eyes\uff0cgrey coat\uff0chood\uff0chood down\uff0chood up\uff0chooded coat\uff0cimpaled\uff0cinjury\uff0ckeep out\uff0cladder\uff0cleg ribbon\uff0clightning\uff0clong hair\uff0clooking up\uff0cmask\uff0c meteor,open clothes\uff0copen coat\uff0coutdoors\uff0cpants\uff0cparted lips\uff0crailing\uff0crain\uff0cribbon\uff0crooftop\uff0csidelocks\uff0csky\uff0cskyscraper\uff0c tail\uff0cvery long hair,(Heavy rains)\uff0cNegative prompt,Smooth reflection, (specular reflection), (delicate and delicate face:1.5),The residual eaves DuanBi,Dark tonal,(Iridescence and rainbow eyes),backlight",
+    "negative_prompt": "longbody, lowres, bad anatomy, bad hands, missing fingers, pubic hair,extra digit, fewer digits, cropped, worst quality, low quality"
+}

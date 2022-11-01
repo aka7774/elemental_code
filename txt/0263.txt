@@ -1,0 +1,3 @@
+(masterpiece), (best quality), (super delicate), (illustration), (extremely delicate and beautiful), (dynamic angle), white and black highlights, (legendary Dragon Queen:1.3)（1 girl）, Hanfu, (complex details) (beautiful and delicate eyes), golden eyes, green pupils, delicate face, upper body, messy floating hair, messy hair, focus, perfect hands, (fantasy wind)
+Negative prompt: nsfw,owres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry, missing arms,long neck,humpbacked,shadow,nude,2 girl
+Steps: 30, Sampler: DPM2 a, CFG scale: 7, Seed: 1486560099, Size: 1280x512, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        1024
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(extremely detailed CG unity 8k wallpaper,masterpiece, best quality, ultra-detailed), (best illumination, best shadow, an extremely delicate and beautiful), dynamic angle, floating, finely detail, Depth of field (bloom), (shine), glinting stars, classic, (illustration),best starry sky,transparent,(1girl:1.75),long gray hair,detailed blue eyes,medium breasts,witch,(girl sitting inside a long crystal bottle),bottle with stopper,water in bottle,grass background,nature",
+    "negative_prompt": "(mutated hands and fingers:1.5) , (long body :1.3), mutation, (poorly drawn :1.2) ,bad shadow, unnatural body, bad breasts,bad face, bad eyes, extra eyes,(ugly:1.157625),(duplicate:1.157625),(morbid:1.1025),(mutilated:1.1025),(tranny:1.157625),mutated hands,(poorly drawn hands:1.157625),blurry,(bad anatomy:1.1025),(bad proportions:1.157625),extra limbs,cloned face,(disfigured:1.157625),(more than 2 nipples:1.157625),(missing arms:1.215506),(extra legs:1.157625),mutated hands,(fused fingers:1.276282),(too many fingers:1.276282),(unclear eyes:1.157625),lowers,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,bad feet,(monotone:1.276282),Abnormal eye size, Abnormal eye distribution,Abnormal eye proportion,Abnormal hands,Abnormal legs,Aabnormal feet,Abnormal fingers,sharp face"
+}

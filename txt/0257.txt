@@ -1,0 +1,3 @@
+worker bees，drones，(queen bee with a detailed face of girl in production:1.276282)，in beehive，(game_cg:1.215506),(by famous artist:1.215506),(highly detailed:1.1025),(masterpiece:1.1025),(best quality:1.157625)，(Beeswax:0.952),(honey:0.952), (Royal jelly:0.952)，solo
+Negative prompt: NSFW,bad hands
+Steps: 50, Sampler: Euler a, CFG scale: 2.5, Seed: 61570462, Size: 768x512, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

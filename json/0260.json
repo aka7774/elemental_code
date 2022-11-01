@@ -1,0 +1,28 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        9
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "\uff08Kowloon Walled City\uff09\uff0c(((extremely detailed)))\uff0c((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)),flowing \uff0cTelegraph Pole \uff0csolo\uff0c1girl\uff0cbnematic lighting,vest\uff0c\uff08Delicate face\uff09(rain),(girl hold an umbrella),grey sky\uff0clonely\uff0c\uff08city\uff09\uff0cbeautiful detailed eyes, detailed wet clothes, blank stare \uff0cdynamic angle\uff0cumbrella\uff0cexpressionless, wet\uff0calley\uff0cswirl",
+    "negative_prompt": "lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,nsfw,bad face\uff0c\uff08Curved umbrella\uff09\uff0c2girl\uff0cUmbrella surface loss\uff0cParachute disengagement\uff0cHide umbrella face"
+}

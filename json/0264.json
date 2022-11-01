@@ -1,0 +1,31 @@
+{
+    "steps": [
+        60
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((masterpiece)), ((best quality)), ((official art)), (extremely detailed CG unity 8k wallpaper), ((highly detailed)), ((illustration)), traditional chinese painting,((Chinese wind)),((a girl)), (single), staring, fairy,hair_ornament, earrings, jewelry, (very long hair), (messy_hair), bare shoulders, ribbon,hairs between eyes, beautiful detailed sky,full body,close-up,arms behind back,Taoist robe, thighs, aloft, mist-shrouded,chinadre,overexposure,[wet clothes],medium breast,solo,[doll],Bare thigh,incredibly_absurdres,intense angle ,pleated dress,chinese style architecture,single hair bun,white_hair,red_eyes,sideways glance,cold attitude,eyeshadow,eyeliner,eyes visible through hair,no shoes,ribbon-trimmed sleeves,earrings,necklace,tiara,medium_breasts,sunlight,reflection light,ray tracing,loli,Phoenix crown and rosy robe,blush",
+    "negative_prompt": "simple background, vague, lowres, bad anatomy, bad hands, extra fingers, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, large breasts,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark"
+}
