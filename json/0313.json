@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        8
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(masterpiece:1.157625), illustration, (cinematic light:1.1025), ultra detailed, (glow white particles:1.157625), (beautiful detailed sky:1.157625), (in space:1.157625), galaxy, (nebula:1.1025), (stars:1.05), starry sky, galaxies, particles, lens Flare, light particles, depth of field, chromatic aberration",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

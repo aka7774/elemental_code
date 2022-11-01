@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(1girl:1.157625), outdoors, forest, starry sky, moon, yellow backlighting, (finely detailed beautiful eyes:1.157625), (finely detailed face:1.1025), (silver hair:1.05), (long hair:1.05), (yellow eyes:1.05), fox ears, off shoulder, oriental clothes, light particles, sidelighting, extreamly detailed 8K unity wallpaper, hyper detailed, intricate detail, highres, ultra detailed, detailed hands, dynamic view, tears, light smile, full body",
+    "negative_prompt": "lowres, (bad anatomy:1.1025), bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands, missing arms, penis, more than two arms, more than two legs, more than two hands, uncensored"
+}

@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(masterpiece:1.157625), illustration, (cinematic light:1.1025), ultra detailed, (canyon:1.157625), light through dust, water, plant, sand, (rock:1.1025), smoke, pebble, depth of field, lens flare",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

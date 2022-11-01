@@ -1,0 +1,3 @@
+(masterpiece:1.157625), (bishoujo:1.05), scenary, landscape, (beautiful detailed background:1.215506), fairy tail, (light particle:1.157625), (white particle:1.157625), (sunlight:1.157625), (mysterious:1.157625), (beautiful detailed face:1.157625), (beautiful detailed girl:1.215506), (beautiful detailed eyes:1.1025), (masterpiece:1.157625), (blue archive (style):1.157625), (high resolution illustraion:1.1025), (beautiful detailed glow:1.1025), (fireflies:1.1025), scenary focus, (sunlight:1.215506), (giant white mushroom:1.1025),(alice in wonderland:1.157625), (cinematic lighting:1.1025), glowing butterfly
+Negative prompt: glowing eyes
+Steps: 28, Sampler: Euler a, CFG scale: 5, Seed: 1582263744, Size: 1024x768, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

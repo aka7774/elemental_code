@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "detailed, (disheveled hair:1.276282), pink_long_hair, (white_side_slit_miko_dress:1.157625), standing, (mountain in background:1.157625), (looking at another:1.215506), (from behind:1.157625), (Shinto shrine:1.1025), sun light, sky, (sakura trees:1.1025), (glow white particles:1.215506), (hair flows upsides:1.157625), (clothes flows upsides:1.157625), (yae miko:1.1025), little smile, open mouth, (yae miko's ring:1.276282), (turn around:1.215506), (falling sakura:1.1025)",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

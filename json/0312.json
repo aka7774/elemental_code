@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(masterpiece:1.157625), best quality, Hyper detailed, (Exquisite detail:1.1025), (:1.157625), (1girl:1.05), (solo:1.05), (light smile:1.05), (front view:1.1025), (looking at viewer:1.05), (detailed hands:1.157625), (short hair:1.215506), (masterpiece:1.157625), illustration, (wide shot:1.157625), (white dress:1.157625), (veil:1.1025), (bouquet:1.157625), (church:1.05). (garden:1.157625), (white flowers:1.157625), (floral background:1.1025), (medium breasts:1.1025), (petal:1.215506)",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

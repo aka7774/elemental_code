@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(1girl:1.05), (solo:1.05), (dynamic angle:1.157625), (dynamic hair:1.215506), (masterpiece:1.157625), (best illustration:1.05), (beautiful-detailed eyes:1.276282), (cinematic light:1.1025), ultra detailed, (beautiful detailed sky:1.157625), (disheveled hair:1.276282), (glow white particles:1.157625), small breast, pink_short_hair, curly hair, (pink_eyes:1.215506), (spring:1.05), standing, (white_off_shoulder_dress:1.05), sky, sun light, (hair flows upsides:1.215506), (clother flows upsides:1.157625), expressionless, (falling cherry blossoms:1.157625), (clear sky:1.1025), (walking on street:1.1025), brightness pupils, charactor focus, looking viewer, light smile, (light from behind:1.1025), earring, hair cilp, from front",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

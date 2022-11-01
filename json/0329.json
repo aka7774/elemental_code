@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        13
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(1girl:1.157625), night, starry sky, amusement park, (girl sitting on park_bench:1.05), (silver hair:1.05), (long hair:1.05), (yellow eyes:1.05), (finely detailed beautiful eyes:1.157625), (finely detailed face:1.1025), full body, 8k, intricate detail, yellow light particles, (highres:1.157625), (ultra detailed:1.157625), (an extremely delicate and beautiful:1.215506), ferris wheel and carousel, dynamic view, dynamic pose, looking at viewer, black dress",
+    "negative_prompt": "lowres, (bad anatomy:1.1025), bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands, missing arms, penis, more than two arms, more than two legs, more than two hands, uncensored, butterfly, close up"
+}

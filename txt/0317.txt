@@ -1,0 +1,3 @@
+(masterpiece:1.157625), illustration, (cinematic light:1.1025), ultra detailed, (canyon:1.157625), light through dust, water, plant, sand, (rock:1.1025), smoke, pebble, depth of field, lens flare
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head
+Steps: 28, Sampler: Euler a, CFG scale: 11, Seed: 308408384, Size: 512x768, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(masterpiece:1.157625), best quality, Hyper detailed, (Exquisite detail:1.1025), (antique:1.157625), (1girl:1.05), (crown:1.1025), (solo:1.05), (front view:1.157625), (long hair:1.215506), (masterpiece:1.157625), (beautiful detailed hands:1.157625), illustration, (throne:1.1025), chandelier, ceiling light",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

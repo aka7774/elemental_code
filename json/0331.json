@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(extremely detailed CG unity 8k wallpaper:1.05), (only background:1.157625), (masterpiece:1.1025), (best quality:1.157625), (ultra-detailed:1.1025), (best illustration:1.05), (best shadow:1.05), (an extremely delicate and beautiful:1.1025), (dynamic angle:1.157625), (glow white particles:1.157625), (cinematic light:1.1025), (grassland:1.1025), (sunset:1.1025), horizon, (falling grass:1.05), (flowerland:1.05), sky, cloue, (sunlight:1.05), spring, warm, shine, (painting:1.05), (sketch:1.05)",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

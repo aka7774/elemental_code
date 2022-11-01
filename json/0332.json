@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        8
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "masterpiece, best quality,(intricate details:1.157625), (beautiful detailed hair:1.276282), (beautiful detailed background:1.276282), (detailed splash:1.276282), city, (cityscape:1.157625),(1girl:1.157625),(limited palette:1.157625), many line in hair,shiny skin,(sunlight:1.157625), drawing, (multicolored background:1.340096), (colorful:1.1025), (cowboy shot:1.157625), (floating hair:1.157625), (colored inner hair:1.157625), (multicolored hair:1.215506), (arms at sides:0.862801),(upper body:1.157625), (looking at viewer:1.157625)",
+    "negative_prompt": "(dark skin:1.1025), (brown skin:1.157625), (black skin:1.157625),(blue skin:1.157625), (red skin:1.157625) ,nsfw, realistic, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra fingers, poorly drawn hands, poorly drawn face, mutation, deformed, bad anatomy, bad proportions, extra limbs,Extra toes, Fewer toes, fewer fingers, deformity,long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head, glowing eyes"
+}

@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(1girl:1.215506), (wide shot:1.1025), (volcano:1.157625), crater, black castle, floating ashes, outdoors, (flame particles:1.05), Beautiful and detailed explosion, smoke, glow particles, high resolution illustration, intricate detail, (highres:1.157625), (masterpiece:1.157625), (best quality:1.157625), evil smile, (ultra detailed:1.157625), (illustration:1.1025), (an extremely delicate and beautiful:1.215506), (finely detailed beautiful eyes:1.157625), (finely detailed face:1.1025), dynamic view, dynamic pose, (silver hair:1.05), (long hair:1.05), (yellow eyes:1.05), black horns, black dress",
+    "negative_prompt": "lowres, (bad anatomy:1.1025), bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands, missing arms, penis, more than two arms, more than two legs, more than two hands, uncensored, butterfly, close up"
+}

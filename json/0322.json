@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(1girl:1.1025), outdoors, lake, reflection, trees, autumn, sunlight, blue sky, colorful, glow particles, high resolution illustration, hyper detailed, intricate detail, (highres:1.157625), (masterpiece:1.157625), (best quality:1.157625), light smile, (ultra-detailed:1.157625), (illustration:1.1025), (an extremely delicate and beautiful:1.215506), dynamic view, dynamic pose, (finely detailed beautiful eyes:1.157625), cowboy shot, (silver hair:1.05), (long hair:1.05), (yellow eyes:1.05), (finely detailed face:1.1025), autumn leaves, (yellow sweater:1.1025), jeans, (falling autumn leaves:1.1025)",
+    "negative_prompt": "nsfw, lowres, (bad anatomy:1.1025), bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands, missing arms, penis, more than two arms, more than two legs, more than two hands, butterfly, close up"
+}

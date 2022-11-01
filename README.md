@@ -6,8 +6,8 @@
 - README.md あそびかた
 - changelog.md 各ファイルの編集内容
 - names.txt 番号と名前の対応表。Notepad++などのUnicode対応エディタで開いてください。
-- txt/ 元素法典を出力した時に吐かれるparamters文字列
-- png/ PNG Info用の画像
+- txt/ 画像を出力した時に吐かれるparamters文字列
+- png/ PNG Infoに投げる用の画像
 - json/ Generate from json用
 
 
@@ -40,6 +40,9 @@ https://docs.qq.com/doc/DWGh4QnZBVlJYRkly
 
 - 元素法典第2巻
 https://docs.qq.com/doc/DWEpNdERNbnBRZWNL
+
+- 배경학개론(背景技術の概論)
+https://docs.google.com/document/d/11sb3AOCE4B5CZeMELNL8PwWoIae2jkrdcz-UEJw_Ayc
 
 - nai2sd-Converter
 https://github.com/AUTOMATIC-gassy/nai2sd-Converter

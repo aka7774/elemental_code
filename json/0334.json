@@ -1,0 +1,31 @@
+{
+    "steps": [
+        35
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        10
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "masterpiece, 1girl, pretty, slim, blonde, dress shirt, business formal, (cowboy shot:1.3), (face close up:1.1), (architecture:1.3) in the background, (skyscraper:1.3) in the background, intricate details, light particles, light diffusion, dynamic angle",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, (blurry), (((((mutated hands and fingers))))), (mutation), 3D character, 3D game scene, 3D game, 3D, anatomical nonsense, bad digit, bad ears, bad eyes, bad face, bad hairs, bad mouth, bad shadow, beard, cloned face, bad mouth, duplicate, extra arms, extra ears, extra eyes, extra legs, extra thighs, fused digit, fused face, fused feet, (fused fingers), (fused hairs), (fused hands),fused mouth, (fused thigh gap), isappearing arms, liquid digit, liquid ears, liquid thigh gap, liquid tongue, (long body), lowers, malformed feet, malformed hands, (malformed limbs), (missing arm), missing digit, missing ears, missing thigh gap, missing thighs, ((one hand with less than 5 digit)), ((one hand with less than 5 fingers)), ((one hand with more than 5 digit)), ((one hand with more than 5 fingers)), ((((poorly drawn)))), thick lips, unnatural body"
+}

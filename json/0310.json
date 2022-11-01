@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(Masterpiece:1.276282),(oil painting:1.1025),(best quality:1.1025),(illustration:1.1025),(1girl:1.157625),(beautiful detailed eyes:1.05),(cinematic light:1.1025),pink hair,long hair,pink eyes,(parted bangs:1.1025),big breasts,naked towel,(sakura flower hairband:1.1025),(onsen:1.1025),(steam:1.1025),(sunset:1.340096),(sakura tree:1.05),sitting,light smile,(glow pink particles:1.4071)",
+    "negative_prompt": "nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, Humpbacked"
+}

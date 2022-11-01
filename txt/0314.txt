@@ -1,0 +1,3 @@
+(Masterpiece:1.276282),(best quality:1.1025),(illustration:1.1025),(1girl:1.157625),(beautiful detailed eyes:1.05),(cinematic light:1.1025),black hair, long hair,(ponytail:1.1025),(black bodysuit:1.1025),red eyes,(city view:1.05),(dark sky:1.05),(cyberpunk:1.157625),(neon light:1.1025),(handgun:1.1025), expressionless
+Negative prompt: nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, Humpbacked,glowing eyes
+Steps: 28, Sampler: Euler a, CFG scale: 10, Seed: 214409147, Size: 512x768, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

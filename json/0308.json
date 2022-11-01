@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(no human:1.157625), (only background:1.1025), (beautiful detailed desert:1.157625), (dynamic angle:1.157625), (masterpiece:1.157625), illustration, (beautiful detailed sky:1.276282), (cinematic light:1.1025), ultra detailed, (huge desert:1.276282), night, night sky, milky way, (glow white flowing particles:1.1025), (horizon:1.215506), (sunset:1.215506), (falling stars:1.157625), (sun light:1.1025)",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

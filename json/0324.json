@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(masterpiece:1.215506), (best quality:1.276282), (illustration:1.276282), (beautiful detailed girl:1.276282), (beautiful detailed glow:1.215506), (beautiful detailed eyes:1.215506), (highres:1.276282), (detailed:1.157625), (high resolution illustraion:1.477455), (ultra-detailed:1.276282), (detailed background:1.1025),(beautiful detailed face:1.276282), (scenery:1.1025), (landscape:1.1025), space, (star (sky):1.4071), (scenery focus:1.157625), (starlight:1.340096), {(glowing:1.215506), (on the moon:1.157625), (starry sky:1.340096), (blue star:1.477455),(white gloves:1.157625), (4k:1.215506), (planet:1.276282), (flower:1.340096), (falling petals:1.276282), (glowing sky:1.276282), (finely detailed:1.1025), (floating hair:1.157625)",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

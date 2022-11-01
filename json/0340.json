@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(Masterpiece:1.1025),(best quality:1.1025),(illustration:1.1025),(beautiful detailed eyes:1.05),(cinematic lighting:1.1025),(beautiful detailed sky:1.1025),(1girl:1.157625),(photorealism:1.215506),black hair,long twintails,sun hat with ribbon,light blue eyes,(sunglasses:1.1025),criss-cross halter,hot pants,blue sky,birds,sunshine,park,spring,flowers,juice",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

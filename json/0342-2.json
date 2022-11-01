@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        9
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(Masterpiece:1.276282),(best quality:1.1025),(illustration:1.1025),(1girl:1.157625),(beautiful detailed eyes:1.05),(cinematic light:1.1025),(false color:1.1025),black hair,long ponytail,messy hair,purple eyes,sleepy eyes,bandana,black mask,black track jacket,navel,black hot pants,black legwear,black boots,street,limited palette,from above, (graffiti:1.05),(multicolored hair:1.1025), chromatic aberration,spray bottle,floating hair, facial hair,angry",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

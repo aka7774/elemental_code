@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(1girl:1.1025), high resolution illustration, hyper detailed, intricate detail, a lot of glowing particles, (highres:1.157625), (masterpiece:1.157625), (best quality:1.157625), (Expressionless:1.157625), (ultra-detailed:1.157625), (illustration:1.1025), (an extremely delicate and beautiful:1.215506), dynamic view, white yukata, obi, clog sandals, (finely detailed beautiful eyes:1.157625), full shot, (walking on the festival street:1.05), (wide shot:1.1025), detailed background, (silver hair:1.05), (long hair:1.05), (yellow eyes:1.05), (finely detailed face:1.1025), festival, night, (fireworks:1.215506), aerial fireworks, firecrackers",
+    "negative_prompt": "nsfw, lowres, (bad anatomy:1.1025), bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands, missing arms, penis, more than two arms, more than two legs, more than two hands, butterfly, close up"
+}

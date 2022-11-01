@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(big_orange_colored_magic_circle_on_back + mathematical_expression:1.276282), standing, (hair flows upsides:1.157625), (clothes flows upsides:1.215506), (ruined castle background:1.1025), (expressionless:1.1025), (half cosed eyes:0.906304), (glow eyes:1.215506), (glow orange body:1.1025), (falling feathers foreground:1.276282), (glowing white particles:1.340096), small breasts, (sky bubbles:1.215506), (light_from_back:1.215506)",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}

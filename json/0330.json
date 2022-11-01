@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(best quality castle:1.1025), (extremely detailed CG unity 8k wallpaper:1.05), (only background:1.157625), (masterpiece:1.1025), (best quality:1.157625), (ultra-detailed:1.1025), (best illustration:1.05), (best shadow:1.05), (an extremely delicate and beautiful:1.1025), (dynamic angle:1.157625), (glow white particles:1.276282), (cinematic light:1.1025), (in_forest:1.157625), (river:1.05), day, (sun light:1.1025), reflection water, (beautiful detailed water:1.157625), (bright background:1.1025), (sky bubbles:0.906304), (floating calstle:1.1025), (falling blossom:1.1025), (beautiful and delicate water:1.157625), {(glow_pink_particles:1.215506), (shine:1.05), nature, spring, painting, falling feathers",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, odd eyes, more than two arms, more than two legs, more than two head"
+}
