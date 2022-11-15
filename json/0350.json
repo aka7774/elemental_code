@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        9
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(masterpiece), best quality, solo, girl, floating object, colorful background, colorful flower background, ((ultra detailed)), (beautiful detailed glow), (((cinematic lighting))), (scenary), (((beautiful detailed background))), (bishoujo), (intricate details), (beautiful detailed girl), deautiful detailed face, ((scenary focus)), beautiful detailed eyes, light particle, light diffusion, ((floating hair)), (1girl), beautiful detailed bubble, beautiful detailed splash, frilled dress, bare shoulders, parted lips,long hair, dense pattern, pastel color,((extremely detailed CG unity 8k wallpaper)), limited palette, character focus, (high resolution illustraion), backlighting, chromatic aberration, small bubble, (limited palette), (beautiful detailed splash),(((flat color))), (beautiful detailed girl), hair in the shape of waves, [ukiyo-e], (cloud sky), (city scape), (city), (floting fish),(flaoting Whale)",
+    "negative_prompt": "blur, lowres, bad anatomy, bad hands, text error, missing fingers, extra digits, fewer digits, cropped, worst quality, low quality, standard quality, jpeg artifacts, signature, watermark, username, blurry, blush, 3d, monochrome, grayscale"
+}
