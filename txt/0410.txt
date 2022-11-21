@@ -1,0 +1,3 @@
+concept art , a cat cloth emblem , electric current , circle shape, cyan color scheme,vector graphics, hyperrealism, octane render,high quality,illustration
+Negative prompt: nsfw, lowres, bad anatomy, bad hands, text error, missing fingers, extra digits, fewer digits, cropped, worst quality, low quality, standard quality, peg artifacts, signature, watermark, username, blurry
+Steps: 50, Sampler: Euler a, CFG scale: 12, Seed: 2969389431, Size: 512x512, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

@@ -1,0 +1,28 @@
+{
+    "steps": [
+        30
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        576
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(((masterpiece,best quality,an extremely delicate and beautiful,illustration))),(from side,medium long shot),((a cute_detailed_girl in spacesuit,beautiful_detailed_face in aerospace_helmet)),(((upper body))),(disheveled hair:0.3),(((clouds:0.3),multiple_luna,(floating_fortress technology machinery),night sky background)),(cyberpunk_aerospace_helmet)",
+    "negative_prompt": "nsfw,lowres,bad anatomy,cropped,worst quality,low quality,normal quality,missing arms,long neck,humpbacked,nude"
+}

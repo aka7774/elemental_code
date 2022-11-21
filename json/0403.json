@@ -1,0 +1,28 @@
+{
+    "steps": [
+        85
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        960
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "best quality, (masterpiece:1.35), wallpaper, (illustration), original,(depth of field), (1girl:1.35), (solo), full body, dynamic,blue eyes, detailed eyes, peacock wing, [peacock feather gorgeous dress:(peacock feathers):0.65], (disheveled hair), colored tips, colored inner hair, jewelry, intricated filigree, feathers on dress,volumetric lighting, jungle, Tyndall effect, peacock feathers, halation",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, realistic, 3d, animals, (large breast), blush, long neck"
+}

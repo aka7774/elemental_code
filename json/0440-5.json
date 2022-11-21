@@ -1,0 +1,28 @@
+{
+    "steps": [
+        52
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "photographic, realistic, a big white humanoid doll is standing aside an old bed, a pink and yellow bedroom, liminal space, [(dim light, blood stains):0.8]",
+    "negative_prompt": "low quality, watermarks, girls, there are people in the picture, arms and legs, malformed face, close-up shot"
+}

@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        12
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(best quality:1.05),(masterpiece:1.1025),\\(Extremely gorgeous magic style\\),magic,fire,burning ground,volocano background,fantasy,solo,(detailed anime dog,fox,wolf,dog,:1.1576)(yellow skin:1.2155)(,anime eyes,chinese accessory,anime style,cute,furry,chibi,mascot,body fur,gold accessory,:1.1576)(red pubic_tatoo:1.2155)(,red jewelry:1.1576)",
+    "negative_prompt": "nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, Humpbacked, nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry"
+}

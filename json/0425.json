@@ -1,0 +1,31 @@
+{
+    "steps": [
+        35
+    ],
+    "sampler": [
+        "DPM++ 2M Karras"
+    ],
+    "cfg_scale": [
+        8
+    ],
+    "width": [
+        1280
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.91
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(super delicate), (illustration), (extremely delicate and beautiful),faux traditional media,perfect body,cowboy shot,(perspective),Kyoto Style,(sketch),(close-up),(a beautiful detailed girl in Washitsu:1.47),Washitsu,(solo:1.4),(HDbackground,Japanese courtyard:1.25),(Creek:0.55),wooden bridge,(cinematic lighting,beautiful detailed glow:1.0),(beautiful detailed pink eyes),ponytail,shiny platinum blonde hair,messy floating hair,((black capelet)),red kimono,hair flower,hair ornament,hair over shoulder,japanese clothes,lace-trimmed kimono,pom pom hair ornament,tassel,wavy hair,glint,blue sky,(autumn:1.1),outdoors,(glowing particles:0.85),Maples in the distance,an epic scene,(Stone lantern,Bonsai:1.0),(White sand:0.85),(Rockery:0.8),(Japanese architecture:1.1),(contour deepening:1.1),(fluttered fallen leaves),(dappled sunlight on her:1.25),(Tyndall effect:1.1),(Cloud Retained background:1.1),(depth of field),highlight",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit,extra arms,extra hands, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry,missing arms,long neck,humpbacked,nsfw,nude,shadow, signature, watermark, username,medium breasts,big breasts,huge breasts,large breasts,pencil,Torii"
+}

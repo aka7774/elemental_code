@@ -1,0 +1,31 @@
+{
+    "steps": [
+        80
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(masterpiece:1.2),((best quality:1.2)), (ultra-detailed:1.1025),(8k wallpaper:1.1025),lifelike,Fibonacci spiral,wide-angle,(extremely detailed background description:1.1025), Depth of field,(best quality:1.05),(highly detailed:1.05),(revolve round Stellar black hole:1.15:1.1025),(Schwarzschild radius:1.35:1.1025), (Black-Hole Accretion Disk:1.4:1.1025),((((quasar:1.1025),(windstorm:1.05),(The distant Milky Way:1.1025),(supernova star:1.1025),(star cluster:1.05),(nebula:1.05), (star river:1.05)):0.8):((light with beautiful details),(shine:1.05),(Stars surround:1.05),depth,ether,):0.9),Fisheye lens",
+    "negative_prompt": "nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry"
+}

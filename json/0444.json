@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((illustration)), ((floating hair)), ((extremely_detailed_eyes_and_face)),((chromatic aberration)), ((caustic)), lens flare, dynamic angle, ((portrait)), (1 girl), ((solo)), ((cute face)), ((hidden hands)), asymmetrical bangs, eye shadow, ((Giant Tai Chi)),((colorful refraction)), (beautiful detailed sky), ((dark intense shadows)), ((cinematic lighting)), ((overexposure)), (expressionless), blank stare, big top sleeves, ((frills)), (((small breast))), pleated skirt, ((sharp focus)), ((masterpiece)), (((best quality))), ((extremely detailed)), colorful, hdr,(((cheongsam))),(((Exquisite Chinese sword))),((Scattered runes)),(((magnificent ancient pagoda))),Architectural community,Fluttering long hair,(((Mysterious Dragon))),gentle wind,(((Yellow paper all over the sky))),((Spells written on paper)),(Yellow paper all over the sky),((Antique glasses)),Dragon pattern,((A solemn atmosphere)),(beautiful and delicate eyes),((Black and white dress pattern)),(Yellow glass light column),((mysterious)),((Chinese architecture))",
+    "negative_prompt": "nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, Humpbacked"
+}

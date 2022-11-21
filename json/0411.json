@@ -1,0 +1,28 @@
+{
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((\ud83d\udcdc)),\u270f,\ud83c\udfb6,(\ud83e\uddd9\u200d\u2640\ufe0f),\u2721,\ud83d\udd6f,\u2728",
+    "negative_prompt": "normal quality,highres,blurry_foreground,text,error,jpeg artifacts,signature,watermark,username"
+}

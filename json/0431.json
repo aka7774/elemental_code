@@ -1,0 +1,31 @@
+{
+    "steps": [
+        39
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        8
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "finely detail, Depth of field,(masterpiece),(((Extremely realistic))),((extremely detailed CG unity 8k wallpaper)),best quality,high resolution illustration,Amazing,(detailed,clear and beautiful:1.4),intricate detail,(best illumination, best shadow, an extremely delicate and beautiful),Detailed beautiful and aesthetic,1figure of Buddha,Gatling gun, electron,(many floating firearms:1.2),All kinds of weapons were floating around the statue,View from below,Global Illumination,auspicious cloud and golden cornfield,Nan Wusan,holy light,oppressive,Sharp Focus",
+    "negative_prompt": "vague, (simple background), owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms"
+}

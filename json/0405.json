@@ -1,0 +1,31 @@
+{
+    "steps": [
+        85
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "[((Delicate arms and hands),(\u270c:1.2))::20],(hands on hilt),Highly Detailed beautiful and aesthetic,extremely detailed CG unity 8k wallpaper,(((masterpiece))),(((best quality))),((ultra-detailed)), ((illustration)), ((an extremely delicate and beautiful)),(painting),(high close up:0.8),(High Score), Ultra Detail,, Detail, Wallpaper,[((samurai sword)):crystal:0.9],[((dragon)):(prims):0.3],clock,[crystal| dragon],((break out)),(floating water:1.2),((loli)),(((cat ears))),white hair,(deep red eyes:1.5),(the dragon is around the girl),[((dragon)):((prims)):0.3],[((samurai sword)):crystal:0.9],,clock,(prims:1.4),[((crystal)) :dragon:0.8],((break out)),(floating water:1.2),Perfect female body,slender waist,neat figure,((loli)),(((cat ears))),white hair,(deep red eyes:1.5),(shining eyes),(twintails),hair_bow,hair ribbon",
+    "negative_prompt": "worst quality, low quality,normal quality,black-white,(mutated hands and fingers:1.5 ), (long body :1.3), (mutation, poorly drawn :1.2), blurry, JPEG artifacts,bad anatomy, liquid body, liquid tongue, disfigured, malformed, mutated, malformed hands,extra arms, extra legs, one foot with more than 5 toes, one foot with less than 5 toes, one hand with more than 5 fingers, one hand with less than 5 fingers,fused fingers,fused toes,liquid digit,bad digit,extra digits,fewer digits,extra toes,extra digits,cropped, watermark, username,signature, text font ui, error,fused nipples,bad breasts,heavy breasts,different nipples,bad nipples,extra ears,long neck, blurred, lowers, lowres, bad anatomy, bad proportions, bad shadow,obesity"
+}

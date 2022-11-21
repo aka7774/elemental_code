@@ -1,0 +1,3 @@
+masterpiece, detailed, poolcore, liminal space, dream pools, the pool is so clean that you can see the tiles and steps under it, underwater shot, photographic, flowing water, a black hole under the water, hyper-realism, CG, detailed shadow, overexposure, film texture
+Negative prompt: low quality, watermarks, children, girls, there are people in the picture, sun, sky, trees, clouds, hands, legs, fishes, heads
+Steps: 61, Sampler: Euler a, CFG scale: 10, Seed: 2204793166, Size: 512x512, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

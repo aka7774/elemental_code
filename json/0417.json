@@ -1,0 +1,28 @@
+{
+    "steps": [
+        60
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        960
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "1girl,alone,single,solo,only one,one character,(((Personage as the main perspective))),(((character in the middle))),((masterpiece)),((best quality)),(ultra-detailed),(illustration),clear-cut margin,alphonse mucha, extremely detailed CG unity 8k wallpaper,((an extremely delicate and beautiful)),(dynamic angle),An enchanted forest at night illuminated by glowing mushrooms, ((Tyndall effect)),(Fluorescent mushroom forests background), 1girl,(arms behind back),(beautiful detailed eyes),cute pink eyes,golden pupil,detailed face,upper body,white dress,messy floating pink hair,disheveled hair,focus,(beautiful water),river,flying butterfly,sunlight,shine,chiaroscuro, ray_tracing,(painting),[[[[[[8 k artistic photography]]]]]]",
+    "negative_prompt": "lowres,badanatomy,badhands,badfoots,wrong,badfingers,text,error,missingfingers,extradigit,fewerdigits,cropped,worstquality,lowquality,normalquality,jpegartifacts,signature,watermark,usemame,blury,badfeet,futa,futanari,small_penis,yaoi,huge_breasts,large_breasts,three legs,wrong hand,wrong feet,wrong fingers,deformed leg,abnormal,malformation,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,bad art, ugly, messy drawing, flesh pile,deformed, bad anatomy, disfigured, mutation, mutated, extra limbs, fat, obese, missing limb, floating limbs, disconnected limbs, long neck, long body, part of the head, poorly drawn feet, mutated skeleton, long skeleton, bad proportions, mutated hands and fingers, intricate human hands fingers, poorly drawn hands, malformed hands, bad hands,poorly drawn face, poorly drawn asymmetrical eyes, big ears, mutated face,extra nipples,tits, huge breast,Inverted mountain, low-quality, flowers, grass, distorted mountain, distorted light, low-quality light, low-quality mountain, low-quality illustration, low-quality background,((two girls))"
+}

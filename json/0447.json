@@ -1,0 +1,31 @@
+{
+    "steps": [
+        25
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        12
+    ],
+    "width": [
+        960
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(masterpiece), best quality, (wallpaper), highly detailed, (1 girl), solo, black hair, long hair, white eyes, detailed eyes, black dress, dynamic, lateral view, cowboy shot, dynamic angle, (ether:1.5), (landscape:1.2), (dissolving:1.2), (fading:1.35), (disintegration:1.5), transparent, grey sky, [wings:(dimensional space):0.35], (broken glass:1.2), reclaimer of my name, The End",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, big breasts, front view, face focus, solo focus, close view"
+}

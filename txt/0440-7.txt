@@ -1,0 +1,3 @@
+masterpiece, highly detailed, windows_xp_screen_cap,video_game_website_pageANDan_email_pageANDwindows_xp_start_menu,message_boxANDold_school_memes,noise
+Negative prompt: low quality, watermarks, normal quality, two screens, multiple computers, people, hands
+Steps: 90, Sampler: Euler a, CFG scale: 12, Seed: 2499280720, Size: 1024x640, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

@@ -1,0 +1,3 @@
+(particle texture:1.6), Divisionism, simple, (thick white outline:1.4), impasto, (limited palette, yellow), anaglyphy, (relief craft), backlight, silhouette, yellow and black, noline art, monochrome:2 , partially colored, (alternate color):1.4, black shadow, smoke:1.2 ((black) tree) , (yellow deer),white deer, city
+Negative prompt: clear lines, detailed and detailed lines, 3d
+Steps: 25, Sampler: PLMS, CFG scale: 11, Seed: 4209443625, Size: 640x384, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

@@ -1,0 +1,3 @@
+(masterpiece), (best quality), (illustration),(Autochess:0.9),(symmetric:0.6)//,Auto battler,+dynamic,chibi,moba,game,pvp,++Chequer
+Negative prompt: lowres, bad anatomy, bad legs,bad hands, text,error, missing fngers,extra digt ,fewer digits,cropped, wort quality ,low quality,normal quality, jpeg,artifacts,signature,watermark, username, blurry, bad feet,artist name,bad anatomy,bad hands,bad body,bad proportions，worst quality,low quality
+Steps: 43, Sampler: Euler a, CFG scale: 10, Seed: 854451700, Size: 1088x704, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

@@ -1,0 +1,31 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "DPM++ 2S a Karras"
+    ],
+    "cfg_scale": [
+        9
+    ],
+    "width": [
+        960
+    ],
+    "height": [
+        576
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(best quality),masterpiece, (best illuminate, best shadow),(best illustration), dynamic angle, (chibi:1.15), thick outline,(1girl:1.2), detailed eyes, white hair, detailed face, crop top, frilled sleeves, pleated skirt, fishnet thighhighs, cowboy shot,Volumetric Lighting,(outline),(messy cyberpunk room:1.1),window,colourful, neon trim, cyberpunk city, High saturation, clouds and stars sky, Galaxy,((citylight))",
+    "negative_prompt": "lowres, bad anatomy, text, bad face, error, extra digit, fewer digits, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, {blurry:1.1}, missing arms, missing legs, more than two legs"
+}

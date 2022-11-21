@@ -1,0 +1,31 @@
+{
+    "steps": [
+        61
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        10
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "masterpiece, detailed, poolcore, liminal space, dream pools, the pool is so clean that you can see the tiles and steps under it, underwater shot, photographic, flowing water, a black hole under the water, hyper-realism, CG, detailed shadow, overexposure, film texture",
+    "negative_prompt": "low quality, watermarks, children, girls, there are people in the picture, sun, sky, trees, clouds, hands, legs, fishes, heads"
+}

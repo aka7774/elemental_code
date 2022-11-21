@@ -1,0 +1,31 @@
+{
+    "steps": [
+        89
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((floating Chinese calligraphy paper with words)),yin yang,glitch art,Abstract art,((cinematic lighting)),((sharp focus)),((masterpiece)),(((best quality))),((extremely detailed: 1.2012712)),colorful,hdr",
+    "negative_prompt": "nsfw,(((ugly))),longbody,lowres, bad anatomy,((bad hands)), ((missing fingers)), public hair,extra digit, fewer digits, cropped, worst quality, low quality,normal quality,(missing arms), (missing limb),((unclear eyes)),owres,error, jpeg artifacts, signature, watermark, username, blurry, long neck, Humpbacked,gigantic_breasts,huge_breasts,large_breasts ,(bad feet),(bad ear),(bad face),low-quality light,low-quality illustration,low-quality background"
+}

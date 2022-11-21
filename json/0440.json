@@ -1,0 +1,28 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        512
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "photographic, realistic, liminal space, backrooms, weirdcore, one line of advertising words",
+    "negative_prompt": ""
+}

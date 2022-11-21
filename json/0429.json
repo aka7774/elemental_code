@@ -1,0 +1,31 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "Euler"
+    ],
+    "cfg_scale": [
+        9
+    ],
+    "width": [
+        896
+    ],
+    "height": [
+        576
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "depth of field, wave at the edge of dress, masterpiece, flat color, best quality, a girl, solo: dress<wave>, dissolving dress, dress having the same color with ocean, dress floating into sea, wave, ((colorful refraction)), ((beautiful detailed sky)), ((dark intense shadows)), ((cinematic lighting)), ((overexposure)), water on the dress, (water sea blue dress blending with sea), from side ,(beautiful detailed girl),beautiful detailed glow, ,detailed lighting, detailed water,(beautiful detailed eyes),expressionless, standing in the ocean, detailed wet clothes\uff0c partially submerged, (long dress blending with ocean), (blue water long dress:1.5), (liquid clothes:1.2) ,a girl, solo, flat_chest, diamond and glaring eyes, black eyes, beautiful detailed cold face, short red hair, short wavy hair, water texture liquid clothes, backless dress , perfect light, white beret with a bowknot on it",
+    "negative_prompt": "q_version, nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, symmetry, outline"
+}

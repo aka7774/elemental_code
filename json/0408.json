@@ -1,0 +1,28 @@
+{
+    "steps": [
+        28
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        768
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "Lineart, masterpiece, cool posing, (lab reaction systems:1.4), ( experiment, lab, :1.05)(chemistry laboratory:1.2155)(, delicate background, cool, :1.05)(with a laboratory as background:1.1025), best quality, a girl, solo: (papercut, thick outline: 2, short red hair, short wavy hair, floating lab-gown, flat chest, white school uniform, white beret, bowknot over white beret , outline:1.05), masterpiece",
+    "negative_prompt": "q-version, nsfw, lowres, bad anatomy, bad hands, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, symmetry, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,watermarks, bad hands"
+}

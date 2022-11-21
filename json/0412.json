@@ -1,0 +1,31 @@
+{
+    "steps": [
+        30
+    ],
+    "sampler": [
+        "DPM2 a"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        1280
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "((masterpiece)), ((best quality)),((highly detailed)),((ultra-detailed)),((wallpaper)),((artbook)),((extremely detailed CG unity 8k wallpaper)),(((illustration))),cinematic lighting, dynamic angle, ((floating)), original,(((depth of field))),solo,(((an extremely delicate and beautiful girl))),(((loli))),(detailed cute anime face),((fighting)),long bright low-tied long red hair, silvery fourpetal flower hair ornament, beautiful detailed eyes, small breast, bishop sleeve Golden Flower Pattern ,(long sleeve:2),(frills),((skull)),((((Gold and silver bicolor skulls burn)))),(skull in her hand),(beautiful detailed glow),beautiful detailed pearl necklace, skull request, flowing golde fire\uff0cflowing silvery fire, (((surrounded by beautiful detailed golden fire spin))),(((surrounded by beautiful detailed silvery fire spin))), fantasism, nature, fantasy style, refined rendering,((contour deepening)),(((((melt))))),(((flowing)))",
+    "negative_prompt": "nsfw, owres, bad anatomy ,bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing arms, long neck,humpbacked,shadow,nude\uff0c2 girl"
+}

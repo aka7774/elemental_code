@@ -1,0 +1,28 @@
+{
+    "steps": [
+        30
+    ],
+    "sampler": [
+        "DPM2 a Karras"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        1152
+    ],
+    "height": [
+        768
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(detailed lines:0.85),(wooden gorgeous chinese card borders:1.55),4k,(masterpiece,best quality,extremely detailed CG unity 8k wallpaper,ultra-detailed),(best illumination,best shadow,an extremely delicate and beautiful),(ink:1.2),(graphite:1.05),(ink wash painting:1.05),(tai chi diagram:1.25),(yin yang:1.25),chaos,ba gua,swirl,(the bottom of the bottle background:1.1),(1 girl:1.1),solo,The character is in the center of the frame,medium full shot,hanfu,taoist robes,celestial being uniform,very long hair,a small (black:1.25) ornament,beautiful detailed eyes,black eyes,(girl surrounded by floating ink water flow:1.2),medium breasts,wind,(white lotus:1.1),(cyan cloudy:1.15),(stratocumulus_stratiformis:1.2)",
+    "negative_prompt": "lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,missing fingers,bad hands,missing arms,large breasts"
+}

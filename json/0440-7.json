@@ -1,0 +1,31 @@
+{
+    "steps": [
+        90
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        12
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "masterpiece, highly detailed, windows_xp_screen_cap,video_game_website_pageANDan_email_pageANDwindows_xp_start_menu,message_boxANDold_school_memes,noise",
+    "negative_prompt": "low quality, watermarks, normal quality, two screens, multiple computers, people, hands"
+}

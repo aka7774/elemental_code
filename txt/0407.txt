@@ -1,0 +1,3 @@
+(((masterpiece))),best quality,((illustration)),solo,depth of field,fps,pov,anime coloring,(Cockpit:1.1)(,Console:1.2),(control panel:1.3),science fiction,dashboard,spaceship interior,Piloting a giant mech,(battle against a giant robot:1.4),backlight,clould,black tracing,depth of field
+Negative prompt: Santa Claus,lowres, bad anatomy, (bad hands), text, error, missimng fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, (bad feet), many hands, duplicate, from back, back view
+Steps: 100, Sampler: DPM++ 2S a Karras, CFG scale: 5.5, Seed: 2060286191, Size: 1216x704, Model hash: 925997e9, Eta: 0.67, Clip skip: 2, ENSD: 31337

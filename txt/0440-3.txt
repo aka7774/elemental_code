@@ -1,0 +1,2 @@
+room, in the 1980s, there are a lot of clouds outside the window, overexposure
+Steps: 50, Sampler: DDIM, CFG scale: 7, Seed: 2302431250, Size: 512x512, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

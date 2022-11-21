@@ -1,0 +1,2 @@
+photographic, realistic, liminal space, backrooms, weirdcore, one line of advertising words
+Steps: 50, Sampler: DDIM, CFG scale: 7, Seed: 1666428008, Size: 512x512, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

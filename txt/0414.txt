@@ -1,0 +1,3 @@
+(masterpiece), (best quality), (super delicate), (illustration), (extremely delicate and beautiful),hyperrealism,(Realistic style:1.2),cel shading,(dynamic angle),War Photography,(giant monster:1.8),solo,(Missile Bombing:1.3),complex details,metal armor,blood,metal texture,Visual impact,Backlight,(dark intense shadows),broken buildings,detailed and intricate,ruins,fog,(magic array circle the sky:1.5)
+Negative prompt: lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry, missing arms
+Steps: 50, Sampler: DDIM, CFG scale: 11, Seed: 2298531194, Size: 960x512, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

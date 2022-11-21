@@ -1,0 +1,31 @@
+{
+    "steps": [
+        40
+    ],
+    "sampler": [
+        "DPM2 a Karras"
+    ],
+    "cfg_scale": [
+        6
+    ],
+    "width": [
+        1280
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(masterpiece), (super delicate), (illustration), (extremely delicate and beautiful), (dynamic angle), black highlights, fluttered detailed ink splashs,(legendary wolf Empress:1.3),(1 girl),upper body, full moon,chinese armor,fairy,delicate face, (complex details) ,(beautiful and delicate eyes), golden eyes,Grey hair,messy floating hair, disheveled hair, focus, perfect hands, eyeshadow,red eyeliner,(fantasy style)",
+    "negative_prompt": "lowres, bad anatomy, text, error, extra digit, fewer digits, worst quality, low quality, normal quality, jpeg artifacts, signature, (watermark:1.2), username, (blurry:1.1), missing arms, two girls,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name,bad feet,two head wolf"
+}

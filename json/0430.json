@@ -1,0 +1,31 @@
+{
+    "steps": [
+        30
+    ],
+    "sampler": [
+        "DPM++ 2S a"
+    ],
+    "cfg_scale": [
+        12
+    ],
+    "width": [
+        960
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "masterpiece, wallpaper, (highly detailed), [street, wall:(1girl), (solo), pale skin, [black eyes|red eyes], (hollow eyes), black hair, long hair, (liquid hair:1.2), floating hair, bangs, expressionless, (black goo:1.4), (white dress:1.2), (white skirt), white, intricated filigree, (stained clothes:1.2):0.25], (black goo:1.4), (black dripping), (black splashing:0.85), (tentacles:0.85), shiny, [:face focus, upper body, (cowboy shot), lateral view, dutch angle, dynamic:0.25], [white background|black goo], volumetric lighting, (high contrast:0.85), (limited palette:0.65)",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet"
+}

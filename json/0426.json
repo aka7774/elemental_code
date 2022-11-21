@@ -1,0 +1,28 @@
+{
+    "steps": [
+        150
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        640
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(extremely detailed CG unity 8k wallpaper),(masterpiece), (best quality), (ultra-detailed), (best illustration),(best shadow), (an extremely delicate and beautiful), dynamic angle, floating, finely detail, (bloom), (shine), glinting stars, classic, (painting), (sketch), Taisho steampunk, (steampunk:1.2),(1girl:1.7), (2020s), (cute face:1.3), anime face, ((solo)), beautiful detailed face, shiny hair, colorful clothes, (kimono), (Japanese maid), maid dress, maid headdress, hair flower, hair ornament, (Frill), Brass Pocket Watch, extremely delicate and beautiful girls, beautiful detailed eyes, cowboy shot,steam train, building architecture, (Japanese style architecture), (street:1.2)",
+    "negative_prompt": "nsfw, lowes, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing arms, from above, furrowed brow raised eyebrows, [naughty face:0.1], [open mouth:0.1]"
+}

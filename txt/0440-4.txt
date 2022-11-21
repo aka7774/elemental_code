@@ -1,0 +1,3 @@
+photographic, realistic, a big white humanoid doll is standing aside an old bed, a pink and yellow bedroom, liminal space
+Negative prompt: low quality, watermarks, girls, there are people in the picture, arms and legs, malformed face, close-up shot
+Steps: 52, Sampler: DDIM, CFG scale: 11, Seed: 2468133831, Size: 768x512, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

@@ -1,0 +1,31 @@
+{
+    "steps": [
+        43
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        10
+    ],
+    "width": [
+        1088
+    ],
+    "height": [
+        704
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(masterpiece), (best quality), (illustration),(Autochess:0.9),(symmetric:0.6)\/\/,Auto battler,+dynamic,chibi,moba,game,pvp,++Chequer",
+    "negative_prompt": "lowres, bad anatomy, bad legs,bad hands, text,error, missing fngers,extra digt ,fewer digits,cropped, wort quality ,low quality,normal quality, jpeg,artifacts,signature,watermark, username, blurry, bad feet,artist name,bad anatomy,bad hands,bad body,bad proportions\uff0cworst quality,low quality"
+}

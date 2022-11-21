@@ -1,0 +1,3 @@
+(((masterpiece,best quality,an extremely delicate and beautiful,illustration))),(from side,medium long shot),((a cute_detailed_girl in spacesuit,beautiful_detailed_face in aerospace_helmet)),(((upper body))),(disheveled hair:0.3),(((clouds:0.3),multiple_luna,(floating_fortress technology machinery),night sky background)),(cyberpunk_aerospace_helmet)
+Negative prompt: nsfw,lowres,bad anatomy,cropped,worst quality,low quality,normal quality,missing arms,long neck,humpbacked,nude
+Steps: 30, Sampler: DDIM, CFG scale: 7, Seed: 3718936630, Size: 1024x576, Model hash: 925997e9, Clip skip: 2, ENSD: 31337

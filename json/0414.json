@@ -1,0 +1,28 @@
+{
+    "steps": [
+        50
+    ],
+    "sampler": [
+        "DDIM"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        960
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(masterpiece), (best quality), (super delicate), (illustration), (extremely delicate and beautiful),hyperrealism,(Realistic style:1.2),cel shading,(dynamic angle),War Photography,(giant monster:1.8),solo,(Missile Bombing:1.3),complex details,metal armor,blood,metal texture,Visual impact,Backlight,(dark intense shadows),broken buildings,detailed and intricate,ruins,fog,(magic array circle the sky:1.5)",
+    "negative_prompt": "lowres,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry, missing arms"
+}

@@ -1,0 +1,34 @@
+{
+    "steps": [
+        35
+    ],
+    "sampler": [
+        "DPM2 a Karras"
+    ],
+    "cfg_scale": [
+        5
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "hypernet": [
+        "anime_3"
+    ],
+    "hypernet_strength": [
+        "0.55"
+    ],
+    "eta": [
+        0.67
+    ],
+    "ensd": [
+        17415
+    ],
+    "prompt": "original, (masterpiece), (illustration:1.2), (extremely fine and beautiful), (perfect details), (unity CG 8K wallpaper:1.05), (ray tracing), (beautiful and clear background:1.25), (depth of field:0.6). (1 (cute young girl:1.1) with (long hair:0.95) and tears in blue eyes, who is (crying:0.6), in forest with (river:1.2) under morning glow with sunrise in (autumn:0.5):1.15). (detailed beautiful eyes:1.2), (beautiful face:1.2), (hair blowing with the wind:1.1), (solo:1.3)",
+    "negative_prompt": "lowres, bad anatomy, text, error, extra digits, fewer digits, cropped, (worst quality:1.2), (low quality:1.2), normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, (nsfw:1.3)"
+}

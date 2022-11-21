@@ -32,7 +32,7 @@ https://github.com/aka7774/generate_from_json
 
 ## 謝辞
 
-- 元素法典
+- 元素法典(第1巻)
 https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
 
 - 元素法典第1.5巻
@@ -40,6 +40,9 @@ https://docs.qq.com/doc/DWGh4QnZBVlJYRkly
 
 - 元素法典第2巻
 https://docs.qq.com/doc/DWEpNdERNbnBRZWNL
+
+- 元素法典第2.5巻
+https://docs.qq.com/doc/DWHFOd2hDSFJaamFm
 
 - 배경학개론(背景技術の概論)
 https://docs.google.com/document/d/11sb3AOCE4B5CZeMELNL8PwWoIae2jkrdcz-UEJw_Ayc

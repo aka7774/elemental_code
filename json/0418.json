@@ -1,0 +1,31 @@
+{
+    "steps": [
+        100
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        4
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "best quality,Amazing,Beautiful golden eyes,finely detail,Depth of field,extremely detailed CG unity 8k wallpaper,(1 girl :1.5),Deep sea background,jellyfish,masterpiece,fluttered detailed splashs, beautiful detailed water,cosmic eyes,Shock sensation,(realistic :0.5),octopus,original",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad hands, bad anatomy"
+}

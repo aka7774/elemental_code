@@ -1,0 +1,28 @@
+{
+    "steps": [
+        25
+    ],
+    "sampler": [
+        "PLMS"
+    ],
+    "cfg_scale": [
+        11
+    ],
+    "width": [
+        640
+    ],
+    "height": [
+        384
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "(particle texture:1.6), Divisionism, simple, (thick white outline:1.4), impasto, (limited palette, yellow), anaglyphy, (relief craft), backlight, silhouette, yellow and black, noline art, monochrome:2 , partially colored, (alternate color):1.4, black shadow, smoke:1.2 ((black) tree) , (yellow deer),white deer, city",
+    "negative_prompt": "clear lines, detailed and detailed lines, 3d"
+}

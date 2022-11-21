@@ -1,0 +1,31 @@
+{
+    "steps": [
+        51
+    ],
+    "sampler": [
+        "Euler a"
+    ],
+    "cfg_scale": [
+        7
+    ],
+    "width": [
+        1024
+    ],
+    "height": [
+        512
+    ],
+    "sd_model_hash": [
+        "925997e9"
+    ],
+    "eta": [
+        0.67
+    ],
+    "clip_skip": [
+        2
+    ],
+    "ensd": [
+        31337
+    ],
+    "prompt": "masterpiece, [(draft, (one girl:1.5))::0.5], [(at an afternoon tea party)], (medium shot:1.5), extremely detailed CG, [[beautiful detailed red eyes:0.5]::0.7],[[white and silver hair: 0.5]::0.7],[red hair:0.7], (luxurious hair ornament), floating hair, [[graceful full dress:0.5]::0.8], top_sleeves, [delicate hands:0.8]",
+    "negative_prompt": "no person in the frame, (two heads), multiple girls, extra arms, character too close, headshot, close-up, deformed face, (two people:1.5), long body, bad anatomy, worst quality, water marks, extra fingers, (malformed hands:1.5), fused hands, nsfw, overhead perspective, rough hands, missing arms, misplaced hands"
+}
