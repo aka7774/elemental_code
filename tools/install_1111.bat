@@ -1,53 +1,55 @@
 @echo off
-; Windowsç”¨è‡ªå‹•AUTOMATICã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ãƒ¼
-; Pythonã¨Gitã¸ã®PATHã¯é€šã•ãªã„ä»•æ§˜
+rem –¢Š®¬ pip‚ª“®ì‚µ‚È‚¢
 
-; ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ãŸã„ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’ä½œã£ã¦ãã®ä¸­ã«ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å…¥ã‚Œã¦å®Ÿè¡Œã™ã‚‹
+rem Windows—pŽ©“®AUTOMATICƒCƒ“ƒXƒg[ƒ‰[
+rem Python‚ÆGit‚Ö‚ÌPATH‚Í’Ê‚³‚È‚¢Žd—l
+
+rem ƒCƒ“ƒXƒg[ƒ‹‚µ‚½‚¢ƒfƒBƒŒƒNƒgƒŠ‚ðì‚Á‚Ä‚»‚Ì’†‚É‚±‚Ìƒtƒ@ƒCƒ‹‚ð“ü‚ê‚ÄŽÀs‚·‚é
 set INSTALL_DIR=%~dp0
 cd /d %INSTALL_DIR%
 
-; bitsadminã¯wgetçš„ãªã‚‚ã®ã€‚æ¨™æº–æ­è¼‰ã€‚ä¾¿åˆ©ã ã‘ã©ãªã‚“ã‹é…ã„ã€‚
+rem bitsadmin‚Íwget“I‚È‚à‚ÌB•W€“‹ÚB•Ö—˜‚¾‚¯‚Ç‚È‚ñ‚©’x‚¢B
 bitsadmin /transfer Python https://www.python.org/ftp/python/3.10.9/python-3.10.9-embed-amd64.zip %INSTALL_DIR%python-3.10.9-embed-amd64.zip
-; unzipã‚³ãƒžãƒ³ãƒ‰ã¯æ¨™æº–ã§å­˜åœ¨ã—ãªã„ã‚‰ã—ã„
+rem unzipƒRƒ}ƒ“ƒh‚Í•W€‚Å‘¶Ý‚µ‚È‚¢‚ç‚µ‚¢
 call powershell -command "Expand-Archive -Force python-3.10.9-embed-amd64.zip"
 ren python-3.10.9-embed-amd64 python310
 
-; pipã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+rem pipƒCƒ“ƒXƒg[ƒ‹
 set PYTHON=%INSTALL_DIR%python310\python.exe
 set PATH=%PATH%;C:\SD2\python310\Scripts
 bitsadmin /transfer pip https://bootstrap.pypa.io/get-pip.py %INSTALL_DIR%get-pip.py
 %PYTHON% %INSTALL_DIR%get-pip.py
 
-; venvã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+rem venvƒCƒ“ƒXƒg[ƒ‹
 %PYTHON% -m pip install venv
 
-; ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ãƒ¼ç”»é¢ãŒé–‹ãã®ã‚’æŠ‘åˆ¶ã™ã‚‹ã®ãŒå›°é›£ã€‚ãã®ã¾ã¾Enterã§å…¥ã‚Œã‚‹æƒ³å®šã€‚
+rem ƒCƒ“ƒXƒg[ƒ‰[‰æ–Ê‚ªŠJ‚­‚Ì‚ð—}§‚·‚é‚Ì‚ª¢“ïB‚»‚Ì‚Ü‚ÜEnter‚Å“ü‚ê‚é‘z’èB
 bitsadmin /transfer git https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/PortableGit-2.39.0.2-64-bit.7z.exe %INSTALL_DIR%PortableGit-2.39.0.2-64-bit.7z.exe
 %INSTALL_DIR%PortableGit-2.39.0.2-64-bit.7z.exe
 
 set GIT=%INSTALL_DIR%PortableGit\bin\git
 %GIT% clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
-; ä½•ã‚‚ã—ãªã„ãƒ¢ãƒ‡ãƒ«ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã™ã‚‹
+rem ‰½‚à‚µ‚È‚¢ƒ‚ƒfƒ‹‚ðƒ_ƒEƒ“ƒ[ƒh‚·‚é
 bitsadmin /transfer model https://raw.githubusercontent.com/aka7774/elemental_code/main/tools/null.safetensors %INSTALL_DIR%stable-diffusion-webui\models\Stable-diffusion\null.safetensors
 
-; Filerã‚’å…¥ã‚Œã‚‹(å¾Œã§å¥½ããªãƒ¢ãƒ‡ãƒ«ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã§ãã‚‹ã‚ˆã†ã«ã™ã‚‹ãŸã‚)
+rem Filer‚ð“ü‚ê‚é(Œã‚ÅD‚«‚Èƒ‚ƒfƒ‹‚ðƒ_ƒEƒ“ƒ[ƒh‚Å‚«‚é‚æ‚¤‚É‚·‚é‚½‚ß)
 cd %INSTALL_DIR%stable-diffusion-webui\extensions
 %GIT% clone https://github.com/aka7774/sd_filer.git
 
 cd %INSTALL_DIR%
 
-; èµ·å‹•ç”¨ãƒãƒƒãƒ
+rem ‹N“®—pƒoƒbƒ`
 echo @echo off >> start.bat
-echo set PATH=^%PATH^%;%INSTALL_DIR%\python310\Scripts;%INSTALL_DIR%PortableGit\bin >> start.bat
+echo set PATH=^%PATH^%;%INSTALL_DIR%python310\Scripts;%INSTALL_DIR%PortableGit\bin >> start.bat
 echo set PYTHON=%INSTALL_DIR%python310\python.exe >> start.bat
 echo set GIT=%GIT%.exe >> start.bat
 echo set VENV_DIR= >> start.bat
-echo set COMMANDLINE_ARGS=--xformers >> start.bat
-echo cd %INSTALL_DIR%stable-diffusion-webui >> start.bat
+echo set COMMANDLINE_ARGS= >> start.bat
+echo cd /d %INSTALL_DIR%stable-diffusion-webui >> start.bat
 echo call webui.bat >> start.bat
 
-; git pullç”¨ãƒãƒƒãƒ
-echo cd %INSTALL_DIR%stable-diffusion-webui >> pull.bat
+rem git pull—pƒoƒbƒ`
+echo cd /d %INSTALL_DIR%stable-diffusion-webui >> pull.bat
 echo %GIT% pull >> pull.bat
 echo @pause >> pull.bat
