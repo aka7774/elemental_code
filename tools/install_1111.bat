@@ -41,18 +41,18 @@ cd %INSTALL_DIR%stable-diffusion-webui\extensions
 cd %INSTALL_DIR%
 
 rem 起動用バッチ
-echo @echo off >> start.bat
-echo set PATH=^%PATH^%;%INSTALL_DIR%python310\Scripts;%INSTALL_DIR%PortableGit\bin >> start.bat
-echo set PYTHON=%INSTALL_DIR%python310\python.exe >> start.bat
-echo set GIT=%GIT%.exe >> start.bat
-echo set VENV_DIR= >> start.bat
-echo set COMMANDLINE_ARGS= >> start.bat
-echo cd /d %INSTALL_DIR%stable-diffusion-webui >> start.bat
-echo call webui.bat >> start.bat
+echo @echo off>start.bat
+echo set PATH=^%PATH^%;%INSTALL_DIR%python310\Scripts;%INSTALL_DIR%PortableGit\bin>>start.bat
+echo set PYTHON=%INSTALL_DIR%python310\python.exe>>start.bat
+echo set GIT=%GIT%.exe>>start.bat
+echo set VENV_DIR=>>start.bat
+echo set COMMANDLINE_ARGS=>>start.bat
+echo cd /d %INSTALL_DIR%stable-diffusion-webui>>start.bat
+echo call webui.bat>>start.bat
 
 rem git pull用バッチ
-echo cd /d %INSTALL_DIR%stable-diffusion-webui >> pull.bat
-echo %GIT% pull >> pull.bat
-echo @pause >> pull.bat
+echo cd /d %INSTALL_DIR%stable-diffusion-webui>pull.bat
+echo %GIT% pull>>pull.bat
+echo @pause>>pull.bat
 
 call start.bat
