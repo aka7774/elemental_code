@@ -50,7 +50,7 @@ cd %INSTALL_DIR%
 
 rem 起動用バッチ
 echo @echo off>start.bat
-echo set PATH=^%PATH^%;%INSTALL_DIR%python310\Scripts;%INSTALL_DIR%PortableGit\bin>>start.bat
+echo set PATH=%%PATH%%;%INSTALL_DIR%python310\Scripts;%INSTALL_DIR%PortableGit\bin>>start.bat
 echo set PYTHON=%INSTALL_DIR%python310\python.exe>>start.bat
 echo set GIT=%GIT%.exe>>start.bat
 echo set VENV_DIR=>>start.bat
