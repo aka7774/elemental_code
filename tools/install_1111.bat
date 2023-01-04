@@ -1,6 +1,6 @@
 @echo off
-rem Windows用自動AUTOMATICインストーラー
-rem 環境を汚さない(PythonとGitへのPATHも通さない)仕様にしたかったが...
+rem Windows用全自動AUTOMATICインストーラー
+rem 環境を汚さない(PythonとGitへのPATHも通さない)仕様
 
 rem インストールしたいディレクトリを作ってその中にこのファイルを入れて実行する
 set INSTALL_DIR=%~dp0
@@ -10,32 +10,17 @@ mkdir dl
 rem bitsadminはwget的なもの。標準搭載。便利だけどなんか遅い。
 rem unzipコマンドは標準で存在しないらしい
 
-rem 過去にPythonかGitをインストーラーで入れてる環境だとインストールに失敗する
-bitsadmin /transfer python https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe %INSTALL_DIR%dl\python-3.10.9-amd64.exe
-%INSTALL_DIR%dl\python-3.10.9-amd64.exe /quiet TargetDir=%INSTALL_DIR%Python310 InstallAllUsers=1 Include_launcher=0
-
-rem embed版はインストール版のようには使えない
-rem bitsadmin /transfer python https://www.python.org/ftp/python/3.10.9/python-3.10.9-embed-amd64.zip %INSTALL_DIR%dl\python-3.10.9-embed-amd64.zip
-rem call powershell -command "Expand-Archive -Force dl\python-3.10.9-embed-amd64.zip"
-rem ren python-3.10.9-embed-amd64 python310
-
-rem python用のpathを通す
-rem echo import sys; sys.path.append('')>python310\current.pth
-rem echo ./Lib/site-packages>>python310\python310._pth
+rem nuget版pythonのダウンロード
+bitsadmin /transfer nuget https://aka.ms/nugetclidl %INSTALL_DIR%dl\nuget.exe
+%INSTALL_DIR%dl\nuget.exe install python -Version 3.10.9 -ExcludeVersion -OutputDirectory .
+move python\tools python310
+rmdir /s /q python
 
 rem pipインストール
-rem set PYTHON=%INSTALL_DIR%python310\python.exe
-rem set PATH=%PATH%;C:\SD2\python310\Scripts
-rem bitsadmin /transfer pip https://bootstrap.pypa.io/get-pip.py %INSTALL_DIR%dl\get-pip.py
-rem %PYTHON% %INSTALL_DIR%dl\get-pip.py
-
-rem venvインストール
-rem bitsadmin /transfer venv https://raw.githubusercontent.com/aka7774/elemental_code/main/tools/venv.zip %INSTALL_DIR%dl\venv.zip
-rem call powershell -command "Expand-Archive -Force dl\venv.zip -DestinationPath python310\Lib\site-packages"
-
-rem ensurepipインストール
-rem bitsadmin /transfer ensurepip https://raw.githubusercontent.com/aka7774/elemental_code/main/tools/ensurepip.zip %INSTALL_DIR%dl\ensurepip.zip
-rem call powershell -command "Expand-Archive -Force dl\ensurepip.zip -DestinationPath python310\Lib\site-packages"
+set PYTHON=%INSTALL_DIR%python310\python.exe
+set PATH=%PATH%;C:\SD2\python310\Scripts
+bitsadmin /transfer pip https://bootstrap.pypa.io/get-pip.py %INSTALL_DIR%dl\get-pip.py
+%PYTHON% %INSTALL_DIR%dl\get-pip.py
 
 rem gitインストール
 bitsadmin /transfer git https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/PortableGit-2.39.0.2-64-bit.7z.exe %INSTALL_DIR%PortableGit-2.39.0.2-64-bit.7z.exe
