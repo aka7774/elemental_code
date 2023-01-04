@@ -1,8 +1,6 @@
 @echo off
-rem 未完成 pipが動作しない
-
 rem Windows用自動AUTOMATICインストーラー
-rem PythonとGitへのPATHは通さない仕様
+rem 環境を汚さない(PythonとGitへのPATHも通さない)仕様
 
 rem インストールしたいディレクトリを作ってその中にこのファイルを入れて実行する
 set INSTALL_DIR=%~dp0
@@ -14,6 +12,9 @@ rem unzipコマンドは標準で存在しないらしい
 call powershell -command "Expand-Archive -Force python-3.10.9-embed-amd64.zip"
 ren python-3.10.9-embed-amd64 python310
 
+rem カレントディレクトリにpathを通す
+echo import sys; sys.path.append(''); > python310\current.pth
+
 rem pipインストール
 set PYTHON=%INSTALL_DIR%python310\python.exe
 set PATH=%PATH%;C:\SD2\python310\Scripts
@@ -21,7 +22,7 @@ bitsadmin /transfer pip https://bootstrap.pypa.io/get-pip.py %INSTALL_DIR%get-pi
 %PYTHON% %INSTALL_DIR%get-pip.py
 
 rem venvインストール
-%PYTHON% -m pip install venv
+%PYTHON% -m pip install virtualenv
 
 rem インストーラー画面が開くのを抑制するのが困難。そのままEnterで入れる想定。
 bitsadmin /transfer git https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/PortableGit-2.39.0.2-64-bit.7z.exe %INSTALL_DIR%PortableGit-2.39.0.2-64-bit.7z.exe
@@ -53,3 +54,5 @@ rem git pull用バッチ
 echo cd /d %INSTALL_DIR%stable-diffusion-webui >> pull.bat
 echo %GIT% pull >> pull.bat
 echo @pause >> pull.bat
+
+call start.bat
