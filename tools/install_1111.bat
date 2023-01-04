@@ -24,9 +24,9 @@ bitsadmin /transfer pip https://bootstrap.pypa.io/get-pip.py %INSTALL_DIR%get-pi
 rem venvインストール
 %PYTHON% -m pip install virtualenv
 
-rem インストーラー画面が開くのを抑制するのが困難。そのままEnterで入れる想定。
+rem gitインストール
 bitsadmin /transfer git https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/PortableGit-2.39.0.2-64-bit.7z.exe %INSTALL_DIR%PortableGit-2.39.0.2-64-bit.7z.exe
-%INSTALL_DIR%PortableGit-2.39.0.2-64-bit.7z.exe
+%INSTALL_DIR%PortableGit-2.39.0.2-64-bit.7z.exe -y
 
 set GIT=%INSTALL_DIR%PortableGit\bin\git
 %GIT% clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
