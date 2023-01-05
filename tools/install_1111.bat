@@ -18,7 +18,7 @@ rmdir /s /q python
 
 rem pipインストール
 set PYTHON=%INSTALL_DIR%python310\python.exe
-set PATH=%PATH%;C:\SD2\python310\Scripts
+set PATH=%PATH%;%INSTALL_DIR%python310\Scripts
 bitsadmin /transfer pip https://bootstrap.pypa.io/get-pip.py %INSTALL_DIR%dl\get-pip.py
 %PYTHON% %INSTALL_DIR%dl\get-pip.py
 
@@ -34,10 +34,10 @@ rem 何もしないモデルをダウンロードする
 bitsadmin /transfer model https://raw.githubusercontent.com/aka7774/elemental_code/main/tools/null.safetensors %INSTALL_DIR%stable-diffusion-webui\models\Stable-diffusion\null.safetensors
 
 rem Filerを入れる(後で好きなモデルをダウンロードできるようにするため)
-cd %INSTALL_DIR%stable-diffusion-webui\extensions
+cd /d %INSTALL_DIR%stable-diffusion-webui\extensions
 %GIT% clone https://github.com/aka7774/sd_filer.git
 
-cd %INSTALL_DIR%
+cd /d %INSTALL_DIR%
 
 rem 起動用バッチ
 echo @echo off>start.bat
@@ -55,3 +55,7 @@ echo %GIT% pull>>pull.bat
 echo @pause>>pull.bat
 
 call start.bat
+
+rem うまくいかなかった時に窓がすぐ消えないようにする
+echo ERROR! ｡ﾟ･（＞＿＜）･ﾟ｡
+@pause >nul
