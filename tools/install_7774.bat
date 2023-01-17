@@ -33,7 +33,7 @@ echo set PATH=%%PATH%%;%INSTALL_DIR%python310\Scripts;%INSTALL_DIR%PortableGit\b
 echo set PYTHON=%INSTALL_DIR%python310\python.exe>>start.bat
 echo set GIT=%GIT%.exe>>start.bat
 echo set VENV_DIR=>>start.bat
-echo set COMMANDLINE_ARGS=>>start.bat
+echo set COMMANDLINE_ARGS=--autolaunch>>start.bat
 echo cd /d %INSTALL_DIR%stable-diffusion-webui>>start.bat
 echo call webui.bat>>start.bat
 
