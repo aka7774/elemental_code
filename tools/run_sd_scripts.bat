@@ -1,6 +1,6 @@
 set PYTORCH_CUDA_ALLOC_CONF=garbage_collection_threshold:0.6,max_split_size_mb:24
 
-%cd%\venv\Scripts\accelerate launch --num_cpu_threads_per_process 12 --mixed_precision=fp16 %cd%\train_network.py ^
+%cd%\venv\Scripts\accelerate launch --num_cpu_threads_per_process 1 --mixed_precision=fp16 %cd%\train_network.py ^
    --pretrained_model_name_or_path=%cd%\ACertainModel-half.ckpt ^
    --train_data_dir=%cd%\train ^
    --output_dir=%cd%\output ^
@@ -10,7 +10,7 @@ set PYTORCH_CUDA_ALLOC_CONF=garbage_collection_threshold:0.6,max_split_size_mb:2
    --resolution=768 ^
    --train_batch_size=1 ^
    --learning_rate=3e-6 ^
-   --max_data_loader_n_workers=8 ^
+   --max_data_loader_n_workers=12 ^
    --max_train_epochs=5 ^
    --gradient_checkpointing ^
    --use_8bit_adam ^
