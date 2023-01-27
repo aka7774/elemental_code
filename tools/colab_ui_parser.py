@@ -1,13 +1,18 @@
 class ColabUiParser():
     """
   from colab_ui_parser import ColabUiParser
+
   parser = ColabUiParser()
   # begin copypaste
   parser.add_argument(...)
   parser.add_argument(...)
   parser.add_argument(...)
   # end copypaste
-  parser.parse_args()
+  args = parser.parse_args()
+  print(args)
+
+  paste to Colab cell AND
+  !python {p}
   """
     inputs = []
     options = []
@@ -37,14 +42,15 @@ class ColabUiParser():
         self.inputs.append(input)
 
         if 'default' in kwargs and kwargs['default'] == None:
-            option = '  {'+option_string+'={'+input_key+'} if '+input_key+' else "" } \\'
+            option = "p+=f"+'" '+option_string+'={'+input_key+'}" if '+input_key+' else ""'
         elif 'action' in kwargs and kwargs['action'] in ['store_true', 'store_false']:
-            option = '  {'+option_string+'={'+input_key+'} if '+input_key+' else "" } \\'
+            option = "p+=f"+'" '+option_string+'" if '+input_key+' else ""'
         else:
-            option = '  '+option_string+'={'+input_key+'} \\'
+            option = "p+=f"+'" '+option_string+'={'+input_key+'}"'
         self.options.append(option)
 
     def parse_args(self):
-        print("\n".join(self.inputs))
-        print("\n")
-        print("\n".join(self.options))
+        p = "\n".join(self.inputs) + "\n\n"
+        p += "p=''\n"
+        p += "\n".join(self.options)
+        return p
