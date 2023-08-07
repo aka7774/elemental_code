@@ -5,7 +5,7 @@ cd /d %INSTALL_DIR%
 mkdir dl
 
 bitsadmin /transfer nuget https://aka.ms/nugetclidl %INSTALL_DIR%dl\nuget.exe
-%INSTALL_DIR%dl\nuget.exe install python -Version 3.10.9 -ExcludeVersion -OutputDirectory .
+%INSTALL_DIR%dl\nuget.exe install python -Version 3.10.11 -ExcludeVersion -OutputDirectory .
 move python\tools python310
 rmdir /s /q python
 
@@ -14,9 +14,9 @@ set PATH=%PATH%;%INSTALL_DIR%python310\Scripts
 bitsadmin /transfer pip https://bootstrap.pypa.io/get-pip.py %INSTALL_DIR%dl\get-pip.py
 %PYTHON% %INSTALL_DIR%dl\get-pip.py
 
-bitsadmin /transfer git https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/PortableGit-2.39.0.2-64-bit.7z.exe %INSTALL_DIR%PortableGit-2.39.0.2-64-bit.7z.exe
-%INSTALL_DIR%PortableGit-2.39.0.2-64-bit.7z.exe -y
-move PortableGit-2.39.0.2-64-bit.7z.exe dl\
+bitsadmin /transfer git https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/PortableGit-2.41.0.3-64-bit.7z.exe %INSTALL_DIR%PortableGit-2.41.0.3-64-bit.7z.exe
+%INSTALL_DIR%PortableGit-2.41.0.3-64-bit.7z.exe -y
+move PortableGit-2.41.0.3-64-bit.7z.exe dl\
 
 set GIT=%INSTALL_DIR%PortableGit\bin\git
 %GIT% clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
