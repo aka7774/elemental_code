@@ -60,6 +60,20 @@ cd models\Stable-diffusion
 curl -L -o animagine-xl-3.1.safetensors https://huggingface.co/cagliostrolab/animagine-xl-3.1/resolve/main/animagine-xl-3.1.safetensors
 cd ..\..
 
-call webui-user.bat
+cd ..
+echo @echo off>start.bat
+echo set PATH=%%PATH%%;%INSTALL_DIR%python310\Scripts;%INSTALL_DIR%PortableGit\bin>>start.bat
+echo set PYTHON=%INSTALL_DIR%python310\python.exe>>start.bat
+echo set GIT=%GIT%.exe>>start.bat
+echo set VENV_DIR=>>start.bat
+echo set COMMANDLINE_ARGS=--autolaunch>>start.bat
+echo cd /d %INSTALL_DIR%stable-diffusion-webui>>start.bat
+echo call webui.bat>>start.bat
+
+echo cd /d %INSTALL_DIR%stable-diffusion-webui>pull.bat
+echo %GIT% pull>>pull.bat
+echo @pause>>pull.bat
+
+call start.bat
 
 pause
