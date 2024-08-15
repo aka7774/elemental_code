@@ -34,6 +34,7 @@ set DL_DST="%INSTALL_DIR%python.tar.gz"
 curl -L -o %DL_DST% %DL_URL%
 if not exist %DL_DST% bitsadmin /transfer dl %DL_URL% %DL_DST%
 tar -xzf %DL_DST%
+del %DL_DST%
 
 set PYTHON=%INSTALL_DIR%python\python.exe
 set PATH=%PATH%;%INSTALL_DIR%python\Scripts
