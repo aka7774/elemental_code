@@ -5,7 +5,6 @@ rem NOT guaranteed to work on Windows
 
 set APPDIR=stable-diffusion-webui-forge
 set REPOS=https://github.com/lllyasviel/stable-diffusion-webui-forge
-set VENV=venv
 
 rem -------------------------------------------
 
@@ -13,9 +12,10 @@ set INSTALL_DIR=%~dp0
 cd /d %INSTALL_DIR%
 
 :git_clone
+set GIT=git
 set DL_URL=%REPOS%
 set DL_DST=%APPDIR%
-git clone %DL_URL% %APPDIR%
+%GIT% clone %DL_URL% %APPDIR%
 if exist %DL_DST% goto install_python
 
 set DL_URL=https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/PortableGit-2.41.0.3-64-bit.7z.exe
@@ -25,7 +25,7 @@ if not exist %DL_DST% bitsadmin /transfer dl %DL_URL% %DL_DST%
 %DL_DST% -y
 del %DL_DST%
 
-set GIT=%INSTALL_DIR%PortableGit\bin\git
+set GIT=%INSTALL_DIR%PortableGit\bin\git.exe
 %GIT% clone %REPOS%
 
 :install_python
@@ -47,9 +47,9 @@ cd ..\..
 
 cd ..
 echo @echo off>start.bat
-echo set PATH=%%PATH%%;%INSTALL_DIR%python\Scripts;%INSTALL_DIR%PortableGit\bin>>start.bat
+echo set PATH=%%PATH%%;%INSTALL_DIR%python\Scripts>>start.bat
 echo set PYTHON=%INSTALL_DIR%python\python.exe>>start.bat
-echo set GIT=%GIT%.exe>>start.bat
+echo set GIT=%GIT%>>start.bat
 echo set VENV_DIR=>>start.bat
 echo set COMMANDLINE_ARGS=--api --autolaunch>>start.bat
 echo cd /d %INSTALL_DIR%%APPDIR%>>start.bat
