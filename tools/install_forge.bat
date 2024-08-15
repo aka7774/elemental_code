@@ -36,7 +36,7 @@ if not exist %DL_DST% bitsadmin /transfer dl %DL_URL% %DL_DST%
 tar -xzf %DL_DST%
 
 set PYTHON=%INSTALL_DIR%python\python.exe
-set PATH=%PATH%;%INSTALL_DIR%python310\Scripts
+set PATH=%PATH%;%INSTALL_DIR%python\Scripts
 
 :install_forge
 cd %APPDIR%\models\Stable-diffusion
@@ -46,8 +46,8 @@ cd ..\..
 
 cd ..
 echo @echo off>start.bat
-echo set PATH=%%PATH%%;%INSTALL_DIR%python310\Scripts;%INSTALL_DIR%PortableGit\bin>>start.bat
-echo set PYTHON=%INSTALL_DIR%python310\python.exe>>start.bat
+echo set PATH=%%PATH%%;%INSTALL_DIR%python\Scripts;%INSTALL_DIR%PortableGit\bin>>start.bat
+echo set PYTHON=%INSTALL_DIR%python\python.exe>>start.bat
 echo set GIT=%GIT%.exe>>start.bat
 echo set VENV_DIR=>>start.bat
 echo set COMMANDLINE_ARGS=--api --autolaunch>>start.bat
