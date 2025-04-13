@@ -99,7 +99,7 @@ def execute_command(command_str):
     # シェルそのものの機能を使いたい場合は shell=True が必要です。
     # ここでは、ユーザーがシェルコマンドを直接入力することを想定し、
     # shell=True を使いますが、セキュリティリスクに注意してください。
-    print(f"Executing command: {command_str}")
+    #print(f"Executing command: {command_str}")
     try:
         # shell=True を使用すると、シェル経由でコマンドが実行される
         # これにより、cdなどのシェルの組み込みコマンドも（ある程度）動作するが、
