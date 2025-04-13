@@ -111,7 +111,7 @@ def execute_command(command_str):
             capture_output=True,
             text=True,
             encoding='utf-8', # 文字化け対策
-            timeout=60 # タイムアウトを設定（秒）
+            #timeout=60 # タイムアウトを設定（秒）
         )
 
         output = ""
