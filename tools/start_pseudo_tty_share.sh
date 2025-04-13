@@ -198,7 +198,7 @@ export GRADIO_USERNAME_EXPORT="$USERNAME"
 export GRADIO_PASSWORD_EXPORT="$PASSWORD"
 
 # app.py を実行
-python app.py
+python -u app.py
 
 # --- クリーンアップ (スクリプト終了時) ---
 echo "Deactivating virtual environment..."
